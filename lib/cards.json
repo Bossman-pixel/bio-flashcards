@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "9700_m19_42_q9",
+    "paperCode": "9700/42/F/M/19",
+    "year": 2019,
+    "session": "m19",
+    "variant": "42",
+    "sessionLabel": "February/March 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Describe the sliding filament model of muscular contraction. [7] (b) Explain the roles of the hormones FSH, LH, oestrogen and progesterone in the human menstrual cycle. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the sliding filament model of muscular contraction.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Explain the roles of the hormones FSH, LH, oestrogen and progesterone in the human menstrual cycle.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from: 7\n\n 1 calcium ions released from sarcoplasmic reticulum ;\n\n 2 calcium ions bind to troponin ;\n\n 3 troponin changes shape and moves tropomyosin ;\n\n 4 exposes binding site on actin ;\n\n 5 myosin head, binds to site / forms cross bridge ;\n\n 6 myosin head tilts ;\n\n 7 pulls actin / power stroke ;\n\n 8 myosin head, has ATPase / hydrolyses ATP ;\n\n 9 myosin head lets go of actin ;\n\n 10 myosin head goes back to previous orientation / myosin head re-cocks ;\n\n 11 process repeated ;\n\n 12 sarcomere shortens ;\n\n(b)\n9(b) any eight from: 8\n\n 1 FSH secreted by anterior pituitary ;\n\n 2 stimulates, development / growth, of follicle (cells in ovary) ;\n\n 3 dominant / Graafian, follicle, secretes oestrogen ;\n\n 4 oestrogen stimulates repair of endometrium ;\n\n 5 oestrogen inhibits further release of FSH ;\n\n 6 (large) increase oestrogen, day 14 / midpoint ;\n\n 7 stimulates secretion of LH from anterior pituitary ;\n\n 8 LH stimulates, ovulation / release of oocyte ;\n\n 9 LH stimulates development of corpus luteum ;\n\n 10 corpus luteum secretes progesterone ;\n\n 11 progesterone continues build-up of endometrium\n or\n maintains endometrium ;\n\n 12 progesterone, inhibits secretion of, LH / FSH ;\n\n 13 corpus luteum degenerates so concentration of progesterone falls ;\n\n 14 endometrium breaks down ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from: 7\n\n 1 calcium ions released from sarcoplasmic reticulum ;\n\n 2 calcium ions bind to troponin ;\n\n 3 troponin changes shape and moves tropomyosin ;\n\n 4 exposes binding site on actin ;\n\n 5 myosin head, binds to site / forms cross bridge ;\n\n 6 myosin head tilts ;\n\n 7 pulls actin / power stroke ;\n\n 8 myosin head, has ATPase / hydrolyses ATP ;\n\n 9 myosin head lets go of actin ;\n\n 10 myosin head goes back to previous orientation / myosin head re-cocks ;\n\n 11 process repeated ;\n\n 12 sarcomere shortens ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n\n 1 FSH secreted by anterior pituitary ;\n\n 2 stimulates, development / growth, of follicle (cells in ovary) ;\n\n 3 dominant / Graafian, follicle, secretes oestrogen ;\n\n 4 oestrogen stimulates repair of endometrium ;\n\n 5 oestrogen inhibits further release of FSH ;\n\n 6 (large) increase oestrogen, day 14 / midpoint ;\n\n 7 stimulates secretion of LH from anterior pituitary ;\n\n 8 LH stimulates, ovulation / release of oocyte ;\n\n 9 LH stimulates development of corpus luteum ;\n\n 10 corpus luteum secretes progesterone ;\n\n 11 progesterone continues build-up of endometrium\n or\n maintains endometrium ;\n\n 12 progesterone, inhibits secretion of, LH / FSH ;\n\n 13 corpus luteum degenerates so concentration of progesterone falls ;\n\n 14 endometrium breaks down ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m19_qp_42.pdf",
+    "sourceMs": "9700_m19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m19_ms_42.pdf"
+  },
+  {
+    "id": "9700_m19_42_q10",
+    "paperCode": "9700/42/F/M/19",
+    "year": 2019,
+    "session": "m19",
+    "variant": "42",
+    "sessionLabel": "February/March 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) State the general theory of evolution and explain the process of natural selection in evolution. [7] (b) Explain how meiosis and fertilisation can result in genetic variation amongst offspring. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "State the general theory of evolution and explain the process of natural selection in evolution.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how meiosis and fertilisation can result in genetic variation amongst offspring.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) 1 ref. to organisms change over time ; 7\n\n plus any six from:\n\n 2 organisms produce many offspring ;\n\n 3 more than is necessary to maintain population ;\n\n 4 (but) population size is constant (over time) ;\n\n 5 within a species there is variation (in phenotype) ;\n\n 6 due to genetic variation ;\n\n 7 caused by mutation ;\n\n 8 individuals compete for survival / survival of the fittest ;\n\n 9 ref. to selection pressure(s) ;\n\n 10 some individuals, are better adapted to survive / have advantageous alleles / have selective advantage ;\n\n 11 pass on (advantageous) alleles to offspring ;\n\n 12 changes allele frequency ;\n\n 13 ref. to speciation ;\n\n(b)\n10(b) any eight from: 8\n\n meiosis (max seven):\n\n 1 chiasma / crossing over ;\n\n 2 between non-sister chromatids ;\n\n 3 of, homologous chromosomes / bivalent ;\n\n 4 in prophase 1 ;\n\n 5 exchange of, genetic material / DNA ;\n\n 6 linkage groups broken ;\n\n 7 new combination of alleles ;\n\n 8 random / independent, assortment of, homologous chromosomes / bivalents (at equator) ;\n\n 9 (during) metaphase 1 ;\n\n 10 random / independent, assortment (of, sister chromatids / chromosomes) at metaphase 2 ;\n\n 11 possible (chromosome) mutation ;\n\n fertilisation:\n\n 12 random mating ;\n\n 13 random, fusion / fertilisation, of gametes ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) 1 ref. to organisms change over time ; 7\n\n plus any six from:\n\n 2 organisms produce many offspring ;\n\n 3 more than is necessary to maintain population ;\n\n 4 (but) population size is constant (over time) ;\n\n 5 within a species there is variation (in phenotype) ;\n\n 6 due to genetic variation ;\n\n 7 caused by mutation ;\n\n 8 individuals compete for survival / survival of the fittest ;\n\n 9 ref. to selection pressure(s) ;\n\n 10 some individuals, are better adapted to survive / have advantageous alleles / have selective advantage ;\n\n 11 pass on (advantageous) alleles to offspring ;\n\n 12 changes allele frequency ;\n\n 13 ref. to speciation ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n\n meiosis (max seven):\n\n 1 chiasma / crossing over ;\n\n 2 between non-sister chromatids ;\n\n 3 of, homologous chromosomes / bivalent ;\n\n 4 in prophase 1 ;\n\n 5 exchange of, genetic material / DNA ;\n\n 6 linkage groups broken ;\n\n 7 new combination of alleles ;\n\n 8 random / independent, assortment of, homologous chromosomes / bivalents (at equator) ;\n\n 9 (during) metaphase 1 ;\n\n 10 random / independent, assortment (of, sister chromatids / chromosomes) at metaphase 2 ;\n\n 11 possible (chromosome) mutation ;\n\n fertilisation:\n\n 12 random mating ;\n\n 13 random, fusion / fertilisation, of gametes ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m19_qp_42.pdf",
+    "sourceMs": "9700_m19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m19_ms_42.pdf"
+  },
+  {
+    "id": "9700_s19_41_q9",
+    "paperCode": "9700/41/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "41",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Explain what is meant by the term limiting factor and explain how knowledge of limiting factors is used to increase crop yields in glasshouses. [7] (b) Describe the behaviour of chromosomes during meiosis. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain what is meant by the term limiting factor and explain how knowledge of limiting factors is used to increase crop yields in glasshouses.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Describe the behaviour of chromosomes during meiosis.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from: 7\n 1 reaction / photosynthesis, controlled / affected, by more than one / several, factors ;\n 2 factor / variable, nearest its minimum value / in shortest supply ;\n 3 which, prevents increase in rate / restricts rate / makes rate plateau ;\n\n to increase crop yield in glass house:\n 4 light intensity + temperature + carbon dioxide concentration ;\n 5 artificial lights / lamps / provide lighting at night ;\n 6 heaters / open windows / control ventilation ;\n 7 CO2 from, cylinders / dry ice / combustion / (named) fuel heater ;\n 8 automation / computerised control / digital control ;\n 9 ref. to optimum, light intensity / temperature / CO2 concentration / conditions ;\n 10 AVP ; e.g. water / irrigation / sprinklers\n control / optimum, humidity\n (named) fertiliser / nitrate / manure\n\n(b)\n9(b) any eight from: 8\n\n meiosis I\n 1 chromosomes, condense / thicken / spiralise ;\n 2 homologous chromosomes pair up / bivalents form ;\n 3 crossing over / chiasma(ta) ;\n 4 spindle fibres / microtubules, attach to / pull, centromeres / kinetochores ;\n 5 bivalents, line up / arranged, on equator ;\n 6 independent / random, assortment (of homologous pairs) ;\n 7 chromosomes, move / pulled, to poles ;\n\n meiosis II\n 8 (single) chromosomes / pairs of chromatids, line up on, equator / mid-line ;\n 9 at right angles to first equator ;\n 10 centromeres divide ;\n 11 chromatids separate ;\n 12 ref. to haploid / chromosome no. halved / one set of chromosomes ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from: 7\n 1 reaction / photosynthesis, controlled / affected, by more than one / several, factors ;\n 2 factor / variable, nearest its minimum value / in shortest supply ;\n 3 which, prevents increase in rate / restricts rate / makes rate plateau ;\n\n to increase crop yield in glass house:\n 4 light intensity + temperature + carbon dioxide concentration ;\n 5 artificial lights / lamps / provide lighting at night ;\n 6 heaters / open windows / control ventilation ;\n 7 CO2 from, cylinders / dry ice / combustion / (named) fuel heater ;\n 8 automation / computerised control / digital control ;\n 9 ref. to optimum, light intensity / temperature / CO2 concentration / conditions ;\n 10 AVP ; e.g. water / irrigation / sprinklers\n control / optimum, humidity\n (named) fertiliser / nitrate / manure",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n\n meiosis I\n 1 chromosomes, condense / thicken / spiralise ;\n 2 homologous chromosomes pair up / bivalents form ;\n 3 crossing over / chiasma(ta) ;\n 4 spindle fibres / microtubules, attach to / pull, centromeres / kinetochores ;\n 5 bivalents, line up / arranged, on equator ;\n 6 independent / random, assortment (of homologous pairs) ;\n 7 chromosomes, move / pulled, to poles ;\n\n meiosis II\n 8 (single) chromosomes / pairs of chromatids, line up on, equator / mid-line ;\n 9 at right angles to first equator ;\n 10 centromeres divide ;\n 11 chromatids separate ;\n 12 ref. to haploid / chromosome no. halved / one set of chromosomes ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_41.pdf",
+    "sourceMs": "9700_s19_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_41.pdf"
+  },
+  {
+    "id": "9700_s19_41_q10",
+    "paperCode": "9700/41/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "41",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Explain how a cholinergic synapse functions. [7] (b) Describe how you would carry out an investigation into the effect of wavelength of light on the rate of photosynthesis of a plant, using a redox indicator such as DCPIP. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain how a cholinergic synapse functions.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Describe how you would carry out an investigation into the effect of wavelength of light on the rate of photosynthesis of a plant, using a redox indicator such as DCPIP.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any seven from: 7\n 1 impulse / action potential / depolarisation, reaches, synaptic knob ;\n 2 (voltage-gated) Ca2+ channels open (in pre-synaptic membrane) ;\n 3 Ca2+ enters (synaptic knob / pre-synaptic neurone) ;\n 4 vesicles with acetylcholine, move towards / fuse with, pre-synaptic membrane ;\n 5 (ACh) released / secreted / exocytosis ;\n 6 ACh diffuses across synaptic cleft ;\n 7 binds to receptors on post-synaptic membrane ;\n 8 (ligand-gated) Na+ channels open and Na+ enters post-synaptic neurone ;\n 9 depolarisation / action potential / EPSP ;\n 10 acetylcholinesterase, breaks down ACh / recycles Ach ;\n\n(b)\n10(b) any eight from: 8\n 1 Hill reaction ;\n 2 oxidised DCPIP is blue ;\n 3 (DCPIP) goes colourless when reduced ;\n 4 method for making chloroplast, extract / suspension ;\n 5 ref. to buffer solution / control osmosis / control pH ;\n 6 expose chloroplasts + DCPIP to wavelength of light ;\n 7 (method 1) measure time for, blue to disappear / blue-green → green / colour to match control with no DCPIP\n or\n (method 2) leave for fixed time and measure with colorimeter ;\n\n 8 calculate rate as, (method 1) 1/t\n or\n (method 2) change in colour value divided by time ;\n\n 9 test five (or more), wavelengths / colours ;\n 10 do three repeats / calculate means ;\n 11 plot wavelength on x-axis against, dependent variable / calculated rate, on y-axis ;\n 12 AVP ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any seven from: 7\n 1 impulse / action potential / depolarisation, reaches, synaptic knob ;\n 2 (voltage-gated) Ca2+ channels open (in pre-synaptic membrane) ;\n 3 Ca2+ enters (synaptic knob / pre-synaptic neurone) ;\n 4 vesicles with acetylcholine, move towards / fuse with, pre-synaptic membrane ;\n 5 (ACh) released / secreted / exocytosis ;\n 6 ACh diffuses across synaptic cleft ;\n 7 binds to receptors on post-synaptic membrane ;\n 8 (ligand-gated) Na+ channels open and Na+ enters post-synaptic neurone ;\n 9 depolarisation / action potential / EPSP ;\n 10 acetylcholinesterase, breaks down ACh / recycles Ach ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n 1 Hill reaction ;\n 2 oxidised DCPIP is blue ;\n 3 (DCPIP) goes colourless when reduced ;\n 4 method for making chloroplast, extract / suspension ;\n 5 ref. to buffer solution / control osmosis / control pH ;\n 6 expose chloroplasts + DCPIP to wavelength of light ;\n 7 (method 1) measure time for, blue to disappear / blue-green → green / colour to match control with no DCPIP\n or\n (method 2) leave for fixed time and measure with colorimeter ;\n\n 8 calculate rate as, (method 1) 1/t\n or\n (method 2) change in colour value divided by time ;\n\n 9 test five (or more), wavelengths / colours ;\n 10 do three repeats / calculate means ;\n 11 plot wavelength on x-axis against, dependent variable / calculated rate, on y-axis ;\n 12 AVP ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_41.pdf",
+    "sourceMs": "9700_s19_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_41.pdf"
+  },
+  {
+    "id": "9700_s19_42_q9",
+    "paperCode": "9700/42/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "42",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how you would carry out an investigation into the effect of temperature on the rate of photosynthesis of an aquatic plant. [8] (b) Outline how degraded habitats may be restored, with reference to named examples. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how you would carry out an investigation into the effect of temperature on the rate of photosynthesis of an aquatic plant.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Outline how degraded habitats may be restored, with reference to named examples.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n 1 microburette / (gas) syringe / photosynthometer ;\n\n 2 cut shoot (of aquatic plant) ;\n\n 3 place shoot in tube of hydrogen carbonate solution ;\n\n 4 to provide carbon dioxide ;\n\n 5 water bath / maintain temperature ;\n\n 6 choose 4 different temperatures ;\n\n 7 acclimatisation ;\n\n 8 lamp placed fixed distance away ;\n\n 9 measure length of bubble of, gas / oxygen, in set time\n or\n count number of bubbles produced in set time ;\n\n 10 repeat experiment twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of photosynthesis ;\n\n 13 AVP ; e.g. dark room / heat shield / LED bulbs\n\n(b)\n9(b) any seven from: 7\n\n restoration techniques\n\n 1 reforesting / replanting ;\n\n 2 reintroduction of, named / native, animal (species) ;\n\n 3 bioremediation / described ;\n\n 4 bubbling oxygen through / oxygenation of, water ;\n\n 5 ref. to normalising pH of, water bodies / soil ;\n\n 6 dredging / clearing / purifying, rivers / lakes / water bodies ;\n\n 7 litter / waste, removal ;\n\n 8 removal of toxic layer of soil / soil cleaned and put back ;\n\n 9 idea of improving soil fertility ;\n\n 10 removal of alien (plant / animal) species ;\n\n 11 protection against grazing ;\n\n 12 named example ;\n\n 13 named example ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n 1 microburette / (gas) syringe / photosynthometer ;\n\n 2 cut shoot (of aquatic plant) ;\n\n 3 place shoot in tube of hydrogen carbonate solution ;\n\n 4 to provide carbon dioxide ;\n\n 5 water bath / maintain temperature ;\n\n 6 choose 4 different temperatures ;\n\n 7 acclimatisation ;\n\n 8 lamp placed fixed distance away ;\n\n 9 measure length of bubble of, gas / oxygen, in set time\n or\n count number of bubbles produced in set time ;\n\n 10 repeat experiment twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of photosynthesis ;\n\n 13 AVP ; e.g. dark room / heat shield / LED bulbs",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n restoration techniques\n\n 1 reforesting / replanting ;\n\n 2 reintroduction of, named / native, animal (species) ;\n\n 3 bioremediation / described ;\n\n 4 bubbling oxygen through / oxygenation of, water ;\n\n 5 ref. to normalising pH of, water bodies / soil ;\n\n 6 dredging / clearing / purifying, rivers / lakes / water bodies ;\n\n 7 litter / waste, removal ;\n\n 8 removal of toxic layer of soil / soil cleaned and put back ;\n\n 9 idea of improving soil fertility ;\n\n 10 removal of alien (plant / animal) species ;\n\n 11 protection against grazing ;\n\n 12 named example ;\n\n 13 named example ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_42.pdf",
+    "sourceMs": "9700_s19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_42.pdf"
+  },
+  {
+    "id": "9700_s19_42_q10",
+    "paperCode": "9700/42/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "42",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Outline the biological basis of contraceptive pills containing oestrogen and progesterone. [8] (b) Explain how speciation may occur as a result of geographical separation. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Outline the biological basis of contraceptive pills containing oestrogen and progesterone.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how speciation may occur as a result of geographical separation.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any eight from: 8\n\n 1 synthetic hormones used ;\n\n 2 as they do not get broken down quickly / act for longer ;\n\n 3 oestrogen / progesterone, (blood) concentrations remain high ;\n\n 4 (act on) anterior pituitary (gland) ;\n\n 5 FSH not, produced / secreted ;\n\n 6 Graafian / dominant, follicle does not develop ;\n\n 7 LH not, produced / secreted ;\n\n 8 ovulation prevented / described ;\n\n 9 cervical mucus thickens (to stop sperm) ;\n\n 10 prevents implantation / endometrium less well developed ;\n\n 11 ref. to negative feedback ;\n\n 12 AVP ; e.g. taken daily for 21 days then stops (for 7 days) to allow menstruation / taken daily throughout month\n\n(b)\n10(b) any seven from: 7\n\n 1 named geographical barrier ; e.g. river / mountain / sea\n\n 2 two populations (of same species) separated ;\n\n 3 no, breeding / allele flow / gene flow, between populations\n or\n reproductively isolated ;\n\n 4 different, selection pressures / (environmental) conditions ;\n\n 5 mutations occur ;\n\n 6 individuals with beneficial alleles, are selected for / survive / reproduce / have a selective advantage ;\n\n 7 beneficial alleles passed on ;\n\n 8 change in, allele frequency / gene pool ;\n\n 9 genetic drift ;\n\n 10 ref. to over a long time / many generations ;\n\n 11 (eventually) unable to interbreed to produce fertile offspring / reproductively isolated ;\n\n 12 allopatric (speciation) ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any eight from: 8\n\n 1 synthetic hormones used ;\n\n 2 as they do not get broken down quickly / act for longer ;\n\n 3 oestrogen / progesterone, (blood) concentrations remain high ;\n\n 4 (act on) anterior pituitary (gland) ;\n\n 5 FSH not, produced / secreted ;\n\n 6 Graafian / dominant, follicle does not develop ;\n\n 7 LH not, produced / secreted ;\n\n 8 ovulation prevented / described ;\n\n 9 cervical mucus thickens (to stop sperm) ;\n\n 10 prevents implantation / endometrium less well developed ;\n\n 11 ref. to negative feedback ;\n\n 12 AVP ; e.g. taken daily for 21 days then stops (for 7 days) to allow menstruation / taken daily throughout month",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any seven from: 7\n\n 1 named geographical barrier ; e.g. river / mountain / sea\n\n 2 two populations (of same species) separated ;\n\n 3 no, breeding / allele flow / gene flow, between populations\n or\n reproductively isolated ;\n\n 4 different, selection pressures / (environmental) conditions ;\n\n 5 mutations occur ;\n\n 6 individuals with beneficial alleles, are selected for / survive / reproduce / have a selective advantage ;\n\n 7 beneficial alleles passed on ;\n\n 8 change in, allele frequency / gene pool ;\n\n 9 genetic drift ;\n\n 10 ref. to over a long time / many generations ;\n\n 11 (eventually) unable to interbreed to produce fertile offspring / reproductively isolated ;\n\n 12 allopatric (speciation) ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_42.pdf",
+    "sourceMs": "9700_s19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_42.pdf"
+  },
+  {
+    "id": "9700_s19_43_q9",
+    "paperCode": "9700/43/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "43",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 43",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how the structure of a chloroplast is related to its functions. [8] (b) Describe how you would separate chloroplast pigments using chromatography. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how the structure of a chloroplast is related to its functions.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Describe how you would separate chloroplast pigments using chromatography.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n 1 ground substance / stroma ;\n\n 2 for, light independent stage / Calvin cycle ;\n\n 3 contains enzymes / named enzyme e.g. rubisco ;\n\n 4 also, sugars / lipids / starch / ribosomes / DNA ;\n\n 5 internal membrane system ;\n\n 6 for, light dependent stage ;\n\n 7 fluid-filled sacs / thylakoids ;\n\n 8 grana are stacks of thylakoids ;\n\n 9 (grana) hold (photosynthetic) pigments ;\n\n 10 (grana) have large surface area for (maximum) light absorption ;\n\n 11 (pigments are arranged in), light harvesting clusters / photosystems ;\n\n 12 primary pigment / reaction centre / chlorophyll a, surrounded by accessory pigments ;\n\n 13 (accessory pigments) pass energy to, primary pigment / reaction centre / chlorophyll a ;\n\n 14 different photosystems absorb light at different wavelengths ;\n\n 15 membranes hold, ATP synthase / electron carriers ;\n\n 16 for, photophosphorylation / chemiosmosis ;\n\n(b)\n9(b) any seven from: 7\n\n 1 grind leaf ;\n\n 2 use, solvent / named solvent ;\n\n 3 leaf extract contains mixture of pigments ;\n\n 4 ref. to concentrate extract ;\n\n 5 further detail ; e.g. pencil line drawn / extract placed on chromatography paper / extract placed on thin layer\n chromatography plate\n\n 6 paper placed (vertically) in jar of (different) solvent ;\n\n 7 solvent rises up paper ;\n\n 8 each pigment travels at different speed ;\n\n 9 pigments separated as they ascend ;\n\n 10 distance moved by each pigment is unique ;\n\n 11 Rf value ;\n\n 12 two dimensional chromatography ;\n\n 13 better separation of pigments ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n 1 ground substance / stroma ;\n\n 2 for, light independent stage / Calvin cycle ;\n\n 3 contains enzymes / named enzyme e.g. rubisco ;\n\n 4 also, sugars / lipids / starch / ribosomes / DNA ;\n\n 5 internal membrane system ;\n\n 6 for, light dependent stage ;\n\n 7 fluid-filled sacs / thylakoids ;\n\n 8 grana are stacks of thylakoids ;\n\n 9 (grana) hold (photosynthetic) pigments ;\n\n 10 (grana) have large surface area for (maximum) light absorption ;\n\n 11 (pigments are arranged in), light harvesting clusters / photosystems ;\n\n 12 primary pigment / reaction centre / chlorophyll a, surrounded by accessory pigments ;\n\n 13 (accessory pigments) pass energy to, primary pigment / reaction centre / chlorophyll a ;\n\n 14 different photosystems absorb light at different wavelengths ;\n\n 15 membranes hold, ATP synthase / electron carriers ;\n\n 16 for, photophosphorylation / chemiosmosis ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n 1 grind leaf ;\n\n 2 use, solvent / named solvent ;\n\n 3 leaf extract contains mixture of pigments ;\n\n 4 ref. to concentrate extract ;\n\n 5 further detail ; e.g. pencil line drawn / extract placed on chromatography paper / extract placed on thin layer\n chromatography plate\n\n 6 paper placed (vertically) in jar of (different) solvent ;\n\n 7 solvent rises up paper ;\n\n 8 each pigment travels at different speed ;\n\n 9 pigments separated as they ascend ;\n\n 10 distance moved by each pigment is unique ;\n\n 11 Rf value ;\n\n 12 two dimensional chromatography ;\n\n 13 better separation of pigments ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_43.pdf",
+    "sourceMs": "9700_s19_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_43.pdf"
+  },
+  {
+    "id": "9700_s19_43_q10",
+    "paperCode": "9700/43/M/J/19",
+    "year": 2019,
+    "session": "s19",
+    "variant": "43",
+    "sessionLabel": "May/June 2019",
+    "variantLabel": "Paper 43",
+    "questionNumber": 10,
+    "questionText": "(a) Describe how ATP is synthesised by oxidative phosphorylation. [8] (b) Describe how you would carry out an investigation, using a simple respirometer, to measure the effect of temperature on the respiration rate of insect larvae. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how ATP is synthesised by oxidative phosphorylation.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Describe how you would carry out an investigation, using a simple respirometer, to measure the effect of temperature on the respiration rate of insect larvae.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any eight from: 8\n\n 1 reduced, NAD / FAD ;\n\n 2 passed to ETC ;\n\n 3 inner membrane / cristae ;\n\n 4 hydrogen released (from reduced, NAD / FAD) ;\n\n 5 split into electrons and protons ;\n\n 6 electrons pass along, ETC / carriers / cytochromes ;\n\n 7 energy released pumps protons into intermembrane space ;\n\n 8 proton gradient is set up ;\n\n 9 protons diffuse, (back) through membrane / down gradient ;\n\n 10 ATP synthase / stalked particles / protein channels ;\n\n 11 (ATP produced from) ADP and (inorganic) phosphate ;\n\n 12 idea of oxygen as final electron acceptor ;\n\n 13 addition of proton (to oxygen) to form water / (oxygen) reduced to water ;\n\n(b)\n10(b) any seven from: 7\n\n 1 detail of placing larvae in respirometer ; e.g. on gauze / use spoon\n\n 2 use and role of, KOH / AW;\n\n 3 water bath / maintain temperature ;\n\n 4 choose 4 different temperatures ;\n\n 5 mark initial position of liquid drop ;\n\n 6 leave for set time ;\n\n 7 measure distance moved by drop (in set time) ;\n\n 8 (use tap to) reset respirometer ;\n\n 9 (at least 3) replicates ;\n\n 10 calculate mean values ;\n\n 11 calculate rate as distance ÷ time ;\n\n 12 plot graph of rate v temperature ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any eight from: 8\n\n 1 reduced, NAD / FAD ;\n\n 2 passed to ETC ;\n\n 3 inner membrane / cristae ;\n\n 4 hydrogen released (from reduced, NAD / FAD) ;\n\n 5 split into electrons and protons ;\n\n 6 electrons pass along, ETC / carriers / cytochromes ;\n\n 7 energy released pumps protons into intermembrane space ;\n\n 8 proton gradient is set up ;\n\n 9 protons diffuse, (back) through membrane / down gradient ;\n\n 10 ATP synthase / stalked particles / protein channels ;\n\n 11 (ATP produced from) ADP and (inorganic) phosphate ;\n\n 12 idea of oxygen as final electron acceptor ;\n\n 13 addition of proton (to oxygen) to form water / (oxygen) reduced to water ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any seven from: 7\n\n 1 detail of placing larvae in respirometer ; e.g. on gauze / use spoon\n\n 2 use and role of, KOH / AW;\n\n 3 water bath / maintain temperature ;\n\n 4 choose 4 different temperatures ;\n\n 5 mark initial position of liquid drop ;\n\n 6 leave for set time ;\n\n 7 measure distance moved by drop (in set time) ;\n\n 8 (use tap to) reset respirometer ;\n\n 9 (at least 3) replicates ;\n\n 10 calculate mean values ;\n\n 11 calculate rate as distance ÷ time ;\n\n 12 plot graph of rate v temperature ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s19_qp_43.pdf",
+    "sourceMs": "9700_s19_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s19_ms_43.pdf"
+  },
+  {
+    "id": "9700_w19_41_q9",
+    "paperCode": "9700/41/O/N/19",
+    "year": 2019,
+    "session": "w19",
+    "variant": "41",
+    "sessionLabel": "October/November 2019",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Compare the characteristic features of members of the kingdoms Fungi and Animalia. [7] (b) Discuss the methods used in breeding programmes for endangered mammal species and outline the problems that may occur with these programmes. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Compare the characteristic features of members of the kingdoms Fungi and Animalia.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Discuss the methods used in breeding programmes for endangered mammal species and outline the problems that may occur with these programmes.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from: 7\n\n Fungi and Animalia\n 1 eukaryotic cells ;\n\n 2 & 3 details of eukaryotic cells ;; e.g. nucleus / linear DNA / chromosomes / histones / 80s ribosomes /\n (named) membrane-bound organelles\n\n 4 heterotrophic / described ;\n\n 5 ref. to glycogen ;\n\n Fungi only\n 6 some unicellular ;\n\n 7 hyphae / mycelium ;\n\n 8 multinucleate parts ;\n\n 9 ref. to spores ;\n\n 10 cell walls of chitin ;\n\n Animalia only\n 11 multicellular ;\n\n 12 specialised cells ;\n\n 13 differentiated into, tissues / organs ;\n\n 14 some motile ;\n\n 15 (some cells have) cilia / flagella ;\n\n(b)\n9(b) any eight from: 8\n\n methods\n 1 provide as natural environment as possible / described ;\n\n 2 storage of, sperm / eggs / gametes ; A sperm banks\n\n 3 artificial insemination / IVF ;\n\n 4 embryo transfer / surrogate mothers ;\n\n 5 can monitor, health of mother / development of foetus ;\n\n 6 (international) cooperation between zoos ;\n\n 7 genetic records kept / ‘stud’ book ;\n\n 8 release into the wild ;\n\n problems\n 9 may be stress in captivity ;\n\n 10 mate may be rejected ;\n\n 11 reproductive cycles may be disrupted (in captivity) ;\n\n 12 & 13 named problems with release ;; e.g. difficulty in finding food / may not integrate into groups / more susceptible to\n disease / very little natural habitat left to release animals into",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from: 7\n\n Fungi and Animalia\n 1 eukaryotic cells ;\n\n 2 & 3 details of eukaryotic cells ;; e.g. nucleus / linear DNA / chromosomes / histones / 80s ribosomes /\n (named) membrane-bound organelles\n\n 4 heterotrophic / described ;\n\n 5 ref. to glycogen ;\n\n Fungi only\n 6 some unicellular ;\n\n 7 hyphae / mycelium ;\n\n 8 multinucleate parts ;\n\n 9 ref. to spores ;\n\n 10 cell walls of chitin ;\n\n Animalia only\n 11 multicellular ;\n\n 12 specialised cells ;\n\n 13 differentiated into, tissues / organs ;\n\n 14 some motile ;\n\n 15 (some cells have) cilia / flagella ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n\n methods\n 1 provide as natural environment as possible / described ;\n\n 2 storage of, sperm / eggs / gametes ; A sperm banks\n\n 3 artificial insemination / IVF ;\n\n 4 embryo transfer / surrogate mothers ;\n\n 5 can monitor, health of mother / development of foetus ;\n\n 6 (international) cooperation between zoos ;\n\n 7 genetic records kept / ‘stud’ book ;\n\n 8 release into the wild ;\n\n problems\n 9 may be stress in captivity ;\n\n 10 mate may be rejected ;\n\n 11 reproductive cycles may be disrupted (in captivity) ;\n\n 12 & 13 named problems with release ;; e.g. difficulty in finding food / may not integrate into groups / more susceptible to\n disease / very little natural habitat left to release animals into",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w19_qp_41.pdf",
+    "sourceMs": "9700_w19_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_ms_41.pdf"
+  },
+  {
+    "id": "9700_w19_41_q10",
+    "paperCode": "9700/41/O/N/19",
+    "year": 2019,
+    "session": "w19",
+    "variant": "41",
+    "sessionLabel": "October/November 2019",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Describe the features of ATP that make it suitable for its role as the universal energy currency of cells. [6] (b) Describe how you would carry out an investigation on the effect of temperature on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as methylene blue. [9]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the features of ATP that make it suitable for its role as the universal energy currency of cells.",
+        "marks": 6
+      },
+      {
+        "label": "(b)",
+        "text": "Describe how you would carry out an investigation on the effect of temperature on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as methylene blue.",
+        "marks": 9
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any six from: 6\n\n 1 small ;\n\n 2 water soluble so can move around cell ;\n\n 3 immediate source of energy ; A immediate energy donor\n\n 4 ref. to hydrolysed ;\n\n 5 phosphate removed releases energy ;\n\n 6 30.5 kJ mol-1 ; A molecule of ATP releases 30.5 kJ\n\n 7 ATP splits to ADP and Pi ;\n note ATP ADP and Pi + 30.5 kJ gains mp6 and mp7\n\n 8 reversible ;\n\n 9 intermediate between, anabolic and catabolic reactions / energy yielding and energy requiring reactions ;\n\n 10 high turnover ;\n\n(b)\n10(b) any nine from: 9\n\n 1 methylene blue / DCPIP, is a hydrogen acceptor (dye) ;\n\n 2 becomes colourless when reduced ;\n\n 3 use yeast suspension (in tube) ;\n\n 4 add named sugar (solution) and, methylene blue / DCPIP ;\n\n 5 put thin layer of oil on / put bung on, to prevent oxygen reaching yeast ;\n\n 6 ref. to water bath (at set temperature) ;\n\n 7 time how long it takes (for methylene blue / DCPIP) to go colourless ;\n\n 8 use colorimeter ;\n\n 9 ref. to 5 different temperatures ;\n\n 10 repeat (whole) experiment at least twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of respiration ; e.g. graph or 1\n T\n\n 13 plot graph of rate of respiration against temperature ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any six from: 6\n\n 1 small ;\n\n 2 water soluble so can move around cell ;\n\n 3 immediate source of energy ; A immediate energy donor\n\n 4 ref. to hydrolysed ;\n\n 5 phosphate removed releases energy ;\n\n 6 30.5 kJ mol-1 ; A molecule of ATP releases 30.5 kJ\n\n 7 ATP splits to ADP and Pi ;\n note ATP ADP and Pi + 30.5 kJ gains mp6 and mp7\n\n 8 reversible ;\n\n 9 intermediate between, anabolic and catabolic reactions / energy yielding and energy requiring reactions ;\n\n 10 high turnover ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any nine from: 9\n\n 1 methylene blue / DCPIP, is a hydrogen acceptor (dye) ;\n\n 2 becomes colourless when reduced ;\n\n 3 use yeast suspension (in tube) ;\n\n 4 add named sugar (solution) and, methylene blue / DCPIP ;\n\n 5 put thin layer of oil on / put bung on, to prevent oxygen reaching yeast ;\n\n 6 ref. to water bath (at set temperature) ;\n\n 7 time how long it takes (for methylene blue / DCPIP) to go colourless ;\n\n 8 use colorimeter ;\n\n 9 ref. to 5 different temperatures ;\n\n 10 repeat (whole) experiment at least twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of respiration ; e.g. graph or 1\n T\n\n 13 plot graph of rate of respiration against temperature ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w19_qp_41.pdf",
+    "sourceMs": "9700_w19_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_ms_41.pdf"
+  },
+  {
+    "id": "9700_w19_42_q9",
+    "paperCode": "9700/42/O/N/19",
+    "year": 2019,
+    "session": "w19",
+    "variant": "42",
+    "sessionLabel": "October/November 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Compare the characteristic features of members of the kingdoms Fungi and Animalia. [7] (b) Discuss the methods used in breeding programmes for endangered mammal species and outline the problems that may occur with these programmes. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Compare the characteristic features of members of the kingdoms Fungi and Animalia.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Discuss the methods used in breeding programmes for endangered mammal species and outline the problems that may occur with these programmes.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from: 7\n\n Fungi and Animalia\n 1 eukaryotic cells ;\n\n 2 & 3 details of eukaryotic cells ;; e.g. nucleus / linear DNA / chromosomes / histones / 80s ribosomes /\n (named) membrane-bound organelles\n\n 4 heterotrophic / described ;\n\n 5 ref. to glycogen ;\n\n Fungi only\n 6 some unicellular ;\n\n 7 hyphae / mycelium ;\n\n 8 multinucleate parts ;\n\n 9 ref. to spores ;\n\n 10 cell walls of chitin ;\n\n Animalia only\n 11 multicellular ;\n\n 12 specialised cells ;\n\n 13 differentiated into, tissues / organs ;\n\n 14 some motile ;\n\n 15 (some cells have) cilia / flagella ;\n\n(b)\n9(b) any eight from: 8\n\n methods\n 1 provide as natural environment as possible / described ;\n\n 2 storage of, sperm / eggs / gametes ; A sperm banks\n\n 3 artificial insemination / IVF ;\n\n 4 embryo transfer / surrogate mothers ;\n\n 5 can monitor, health of mother / development of foetus ;\n\n 6 (international) cooperation between zoos ;\n\n 7 genetic records kept / ‘stud’ book ;\n\n 8 release into the wild ;\n\n problems\n 9 may be stress in captivity ;\n\n 10 mate may be rejected ;\n\n 11 reproductive cycles may be disrupted (in captivity) ;\n\n 12 & 13 named problems with release ;; e.g. difficulty in finding food / may not integrate into groups / more susceptible to\n disease / very little natural habitat left to release animals into",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from: 7\n\n Fungi and Animalia\n 1 eukaryotic cells ;\n\n 2 & 3 details of eukaryotic cells ;; e.g. nucleus / linear DNA / chromosomes / histones / 80s ribosomes /\n (named) membrane-bound organelles\n\n 4 heterotrophic / described ;\n\n 5 ref. to glycogen ;\n\n Fungi only\n 6 some unicellular ;\n\n 7 hyphae / mycelium ;\n\n 8 multinucleate parts ;\n\n 9 ref. to spores ;\n\n 10 cell walls of chitin ;\n\n Animalia only\n 11 multicellular ;\n\n 12 specialised cells ;\n\n 13 differentiated into, tissues / organs ;\n\n 14 some motile ;\n\n 15 (some cells have) cilia / flagella ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n\n methods\n 1 provide as natural environment as possible / described ;\n\n 2 storage of, sperm / eggs / gametes ; A sperm banks\n\n 3 artificial insemination / IVF ;\n\n 4 embryo transfer / surrogate mothers ;\n\n 5 can monitor, health of mother / development of foetus ;\n\n 6 (international) cooperation between zoos ;\n\n 7 genetic records kept / ‘stud’ book ;\n\n 8 release into the wild ;\n\n problems\n 9 may be stress in captivity ;\n\n 10 mate may be rejected ;\n\n 11 reproductive cycles may be disrupted (in captivity) ;\n\n 12 & 13 named problems with release ;; e.g. difficulty in finding food / may not integrate into groups / more susceptible to\n disease / very little natural habitat left to release animals into",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w19_qp_42.pdf",
+    "sourceMs": "9700_w19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_ms_42.pdf"
+  },
+  {
+    "id": "9700_w19_42_q10",
+    "paperCode": "9700/42/O/N/19",
+    "year": 2019,
+    "session": "w19",
+    "variant": "42",
+    "sessionLabel": "October/November 2019",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Describe the features of ATP that make it suitable for its role as the universal energy currency of cells. [6] (b) Describe how you would carry out an investigation on the effect of temperature on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as methylene blue. [9]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the features of ATP that make it suitable for its role as the universal energy currency of cells.",
+        "marks": 6
+      },
+      {
+        "label": "(b)",
+        "text": "Describe how you would carry out an investigation on the effect of temperature on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as methylene blue.",
+        "marks": 9
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any six from: 6\n\n 1 small ;\n\n 2 water soluble so can move around cell ;\n\n 3 immediate source of energy ; A immediate energy donor\n\n 4 ref. to hydrolysed ;\n\n 5 phosphate removed releases energy ;\n\n 6 30.5 kJ mol-1 ; A molecule of ATP releases 30.5 kJ\n\n 7 ATP splits to ADP and Pi ;\n note ATP ADP and Pi + 30.5 kJ gains mp6 and mp7\n\n 8 reversible ;\n\n 9 intermediate between, anabolic and catabolic reactions / energy yielding and energy requiring reactions ;\n\n 10 high turnover ;\n\n(b)\n10(b) any nine from: 9\n\n 1 methylene blue / DCPIP, is a hydrogen acceptor (dye) ;\n\n 2 becomes colourless when reduced ;\n\n 3 use yeast suspension (in tube) ;\n\n 4 add named sugar (solution) and, methylene blue / DCPIP ;\n\n 5 put thin layer of oil on / put bung on, to prevent oxygen reaching yeast ;\n\n 6 ref. to water bath (at set temperature) ;\n\n 7 time how long it takes (for methylene blue / DCPIP) to go colourless ;\n\n 8 use colorimeter ;\n\n 9 ref. to 5 different temperatures ;\n\n 10 repeat (whole) experiment at least twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of respiration ; e.g. graph or 1\n T\n\n 13 plot graph of rate of respiration against temperature ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any six from: 6\n\n 1 small ;\n\n 2 water soluble so can move around cell ;\n\n 3 immediate source of energy ; A immediate energy donor\n\n 4 ref. to hydrolysed ;\n\n 5 phosphate removed releases energy ;\n\n 6 30.5 kJ mol-1 ; A molecule of ATP releases 30.5 kJ\n\n 7 ATP splits to ADP and Pi ;\n note ATP ADP and Pi + 30.5 kJ gains mp6 and mp7\n\n 8 reversible ;\n\n 9 intermediate between, anabolic and catabolic reactions / energy yielding and energy requiring reactions ;\n\n 10 high turnover ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any nine from: 9\n\n 1 methylene blue / DCPIP, is a hydrogen acceptor (dye) ;\n\n 2 becomes colourless when reduced ;\n\n 3 use yeast suspension (in tube) ;\n\n 4 add named sugar (solution) and, methylene blue / DCPIP ;\n\n 5 put thin layer of oil on / put bung on, to prevent oxygen reaching yeast ;\n\n 6 ref. to water bath (at set temperature) ;\n\n 7 time how long it takes (for methylene blue / DCPIP) to go colourless ;\n\n 8 use colorimeter ;\n\n 9 ref. to 5 different temperatures ;\n\n 10 repeat (whole) experiment at least twice more ;\n\n 11 calculate mean values ;\n\n 12 method to calculate rate of respiration ; e.g. graph or 1\n T\n\n 13 plot graph of rate of respiration against temperature ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w19_qp_42.pdf",
+    "sourceMs": "9700_w19_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w19_ms_42.pdf"
+  },
+  {
+    "id": "9700_m20_42_q9",
+    "paperCode": "9700/42/F/M/20",
+    "year": 2020,
+    "session": "m20",
+    "variant": "42",
+    "sessionLabel": "February/March 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Explain how meiosis and fertilisation can result in genetic variation amongst offspring. [8] (b) Outline the effects of mutant alleles on the phenotype in albinism and haemophilia. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain how meiosis and fertilisation can result in genetic variation amongst offspring.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Outline the effects of mutant alleles on the phenotype in albinism and haemophilia.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n meiosis:\n\n 1 chiasma / crossing over ;\n\n 2 between non-sister chromatids ;\n\n 3 of, homologous chromosomes / bivalent ;\n\n 4 in prophase 1 ;\n\n 5 exchange of, genetic material / alleles / genes / DNA ;\n\n 6 linkage groups broken ;\n\n 7 new combination of alleles ;\n\n 8 random / independent, assortment of, homologous chromosomes / bivalents (at equator) ;\n\n 9 (during) metaphase 1 ;\n\n 10 random / independent, assortment (of, sister chromatids / chromosomes) at metaphase 2 ;\n\n 11 possible chromosome mutation ;\n\n fertilisation:\n\n 12 random mating ;\n\n 13 random, fusion / fertilisation, of gametes ;\n\n(b)\n9(b) any seven from: 7\n\n albinism (max 4):\n\n 1 caused by recessive (allele) ;\n\n 2 (mutant allele) affects production of tyrosinase / causes production of faulty tyrosinase ;\n\n 3 results in, absence / reduced production of, melanin ;\n\n 4 pale / white, hair or skin ;\n\n 5 pink eyes ;\n\n 6 increases susceptibility to, sunburn / skin cancer ;\n\n haemophilia (max 4):\n\n 7 caused by recessive (allele) ;\n\n 8 factor VIII / factor IX, not produced ;\n\n 9 gene / allele, is carried on X chromosome ;\n\n 10 sex-linked ;\n\n 11 prevents / reduces, clotting of blood ;\n\n 12 description of symptoms ;\n e.g. excessive bleeding\n bleeding into joints\n large bruises\n internal bleeding",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n meiosis:\n\n 1 chiasma / crossing over ;\n\n 2 between non-sister chromatids ;\n\n 3 of, homologous chromosomes / bivalent ;\n\n 4 in prophase 1 ;\n\n 5 exchange of, genetic material / alleles / genes / DNA ;\n\n 6 linkage groups broken ;\n\n 7 new combination of alleles ;\n\n 8 random / independent, assortment of, homologous chromosomes / bivalents (at equator) ;\n\n 9 (during) metaphase 1 ;\n\n 10 random / independent, assortment (of, sister chromatids / chromosomes) at metaphase 2 ;\n\n 11 possible chromosome mutation ;\n\n fertilisation:\n\n 12 random mating ;\n\n 13 random, fusion / fertilisation, of gametes ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n albinism (max 4):\n\n 1 caused by recessive (allele) ;\n\n 2 (mutant allele) affects production of tyrosinase / causes production of faulty tyrosinase ;\n\n 3 results in, absence / reduced production of, melanin ;\n\n 4 pale / white, hair or skin ;\n\n 5 pink eyes ;\n\n 6 increases susceptibility to, sunburn / skin cancer ;\n\n haemophilia (max 4):\n\n 7 caused by recessive (allele) ;\n\n 8 factor VIII / factor IX, not produced ;\n\n 9 gene / allele, is carried on X chromosome ;\n\n 10 sex-linked ;\n\n 11 prevents / reduces, clotting of blood ;\n\n 12 description of symptoms ;\n e.g. excessive bleeding\n bleeding into joints\n large bruises\n internal bleeding",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m20_qp_42.pdf",
+    "sourceMs": "9700_m20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m20_ms_42.pdf"
+  },
+  {
+    "id": "9700_m20_42_q10",
+    "paperCode": "9700/42/F/M/20",
+    "year": 2020,
+    "session": "m20",
+    "variant": "42",
+    "sessionLabel": "February/March 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Describe how random sampling can be used to assess the distribution and abundance of plants in an area. [6] (b) Describe named examples of threats to the biodiversity of aquatic ecosystems and terrestrial ecosystems. [9]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how random sampling can be used to assess the distribution and abundance of plants in an area.",
+        "marks": 6
+      },
+      {
+        "label": "(b)",
+        "text": "Describe named examples of threats to the biodiversity of aquatic ecosystems and terrestrial ecosystems.",
+        "marks": 9
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any six from: 6\n\n 1 area marked out as a grid ;\n\n 2 co-ordinates obtained using a random number generator ;\n\n 3 quadrats used ;\n\n 4 placed at random co-ordinates ;\n\n 5 ref. to size of quadrat ;\n\n 6 species identified within quadrat ;\n\n 7 % cover / count number within quadrat ;\n\n 8 Braun Blanquet / other named, scale ;\n\n 9 repeat sampling ;\n\n 10 AVP ; e.g. large sample size\n means calculated\n method of calculating abundance and richness\n\n(b)\n10(b) any nine from: 9\n\n 1 habitat loss ;\n\n 2 deforestation ;\n\n 3 named cause ; e.g. clearing land for, housing / agriculture / transport / industry\n\n 4 habitat fragmentation / description ;\n\n 5 named example ;e.g. palm oil plantations in SE Asia\n\n 6 climate change / global warming / description ;\n\n 7 named cause ; e.g. greenhouse gases\n\n 8 pollution / description ;\n\n 9 named example ; e.g. fertilisers / toxins / plastic\n\n 10 over exploitation of resources / description ;\n\n 11 named example ; e.g. overfishing / hunting / animal trade\n\n 12 invasive alien species / description ;\n\n 13 named example ; e.g. grey squirrel in Europe",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any six from: 6\n\n 1 area marked out as a grid ;\n\n 2 co-ordinates obtained using a random number generator ;\n\n 3 quadrats used ;\n\n 4 placed at random co-ordinates ;\n\n 5 ref. to size of quadrat ;\n\n 6 species identified within quadrat ;\n\n 7 % cover / count number within quadrat ;\n\n 8 Braun Blanquet / other named, scale ;\n\n 9 repeat sampling ;\n\n 10 AVP ; e.g. large sample size\n means calculated\n method of calculating abundance and richness",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any nine from: 9\n\n 1 habitat loss ;\n\n 2 deforestation ;\n\n 3 named cause ; e.g. clearing land for, housing / agriculture / transport / industry\n\n 4 habitat fragmentation / description ;\n\n 5 named example ;e.g. palm oil plantations in SE Asia\n\n 6 climate change / global warming / description ;\n\n 7 named cause ; e.g. greenhouse gases\n\n 8 pollution / description ;\n\n 9 named example ; e.g. fertilisers / toxins / plastic\n\n 10 over exploitation of resources / description ;\n\n 11 named example ; e.g. overfishing / hunting / animal trade\n\n 12 invasive alien species / description ;\n\n 13 named example ; e.g. grey squirrel in Europe",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m20_qp_42.pdf",
+    "sourceMs": "9700_m20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m20_ms_42.pdf"
+  },
+  {
+    "id": "9700_s20_41_q9",
+    "paperCode": "9700/41/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "41",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how the polymerase chain reaction is used to clone and amplify DNA. [8] (b) Explain the advantages of using recombinant DNA techniques to produce human proteins, such as factor VIII or adenosine deaminase. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how the polymerase chain reaction is used to clone and amplify DNA.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Explain the advantages of using recombinant DNA techniques to produce human proteins, such as factor VIII or adenosine deaminase.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n 1 DNA denatured / ssDNA produced ;\n\n 2 by heating to, 94 / 95 °C ;\n\n 3 add primer (DNA) ;\n\n 4 complementary base pairing (with sample DNA) ;\n\n 5 at 55–65 °C ;\n\n 6 ref. to annealing ;\n\n 7 DNA polymerase builds new strands / AW ;\n\n 8 by adding free nucleotides ;\n\n 9 at 70–75 °C ;\n\n 10 ref. to Taq polymerase thermostable ;\n\n 11 does not need replacing ;\n\n 12 new strand denatured and process repeated ;\n\n 13 process is automated ;\n\n(b)\n9(b) any seven from: 7\n\n 1 can produce large(r) quantities ;\n\n 2 use bacterial host / hamster cell host / insect larva cell ;\n\n 3 product exactly the same as human protein ;\n\n 4 (as) product has same amino acid sequence\n\n 5 no immune response ;\n\n 6 no side effects ;\n\n 7 no risk of transfer of disease ;\n\n 8 easier to obtain purified product ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n 1 DNA denatured / ssDNA produced ;\n\n 2 by heating to, 94 / 95 °C ;\n\n 3 add primer (DNA) ;\n\n 4 complementary base pairing (with sample DNA) ;\n\n 5 at 55–65 °C ;\n\n 6 ref. to annealing ;\n\n 7 DNA polymerase builds new strands / AW ;\n\n 8 by adding free nucleotides ;\n\n 9 at 70–75 °C ;\n\n 10 ref. to Taq polymerase thermostable ;\n\n 11 does not need replacing ;\n\n 12 new strand denatured and process repeated ;\n\n 13 process is automated ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n 1 can produce large(r) quantities ;\n\n 2 use bacterial host / hamster cell host / insect larva cell ;\n\n 3 product exactly the same as human protein ;\n\n 4 (as) product has same amino acid sequence\n\n 5 no immune response ;\n\n 6 no side effects ;\n\n 7 no risk of transfer of disease ;\n\n 8 easier to obtain purified product ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_41.pdf",
+    "sourceMs": "9700_s20_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_41.pdf"
+  },
+  {
+    "id": "9700_s20_41_q10",
+    "paperCode": "9700/41/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "41",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Describe the ultrastructure of a striated muscle fibre. [8] (b) Explain how auxin causes plant cells to elongate. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the ultrastructure of a striated muscle fibre.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how auxin causes plant cells to elongate.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any eight from: 8\n\n 1 fibres are multinucleate ;\n\n 2 cell surface membrane is sarcolemma ;\n\n 3 sarcoplasm has many mitochondria ;\n\n 4 sarcoplasmic reticulum membranes have protein pumps ;\n\n 5 transverse system tubules / T-system ;\n\n 6 ref. to myofibrils ;\n\n 7 thick filament / myosin, attached to M line ;\n\n 8 thin filament / actin, attached to Z line ;\n\n 9 interdigitation of filaments causes striated appearance ;\n\n 10 description of one of, A / H / I, bands ;\n\n 11 sarcomere is the distance between M lines ;\n\n 12 myosin is a fibrous protein with globular protein head ;\n\n 13 actin is a chain of globular protein molecules ;\n\n 14 tropomyosin / troponin, attached to actin ;\n\n allow marks from an annotated diagram\n\n(b)\n10(b) any seven from: 7\n\n 1 acid-growth (hypothesis) ;\n\n 2 auxin stimulates proton pumps ;\n\n 3 (in) cell surface membrane ;\n\n 4 protons / H+, pumped into cell wall ;\n\n 5 using energy / by active transport ;\n\n 6 pH of cell wall decreases / cell wall becomes (more) acidic ;\n\n 7 pH-dependent enzymes activated ;\n\n 8 ref. to expansins ;\n\n 9 bonds between cellulose microfibrils broken ;\n\n 10 idea that cell wall, ‘loosens’ / becomes more elastic / able to stretch ;\n\n 11 (more) water enters cell / turgor pressure increases ;\n\n 12 (so) cell (wall) expands ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any eight from: 8\n\n 1 fibres are multinucleate ;\n\n 2 cell surface membrane is sarcolemma ;\n\n 3 sarcoplasm has many mitochondria ;\n\n 4 sarcoplasmic reticulum membranes have protein pumps ;\n\n 5 transverse system tubules / T-system ;\n\n 6 ref. to myofibrils ;\n\n 7 thick filament / myosin, attached to M line ;\n\n 8 thin filament / actin, attached to Z line ;\n\n 9 interdigitation of filaments causes striated appearance ;\n\n 10 description of one of, A / H / I, bands ;\n\n 11 sarcomere is the distance between M lines ;\n\n 12 myosin is a fibrous protein with globular protein head ;\n\n 13 actin is a chain of globular protein molecules ;\n\n 14 tropomyosin / troponin, attached to actin ;\n\n allow marks from an annotated diagram",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any seven from: 7\n\n 1 acid-growth (hypothesis) ;\n\n 2 auxin stimulates proton pumps ;\n\n 3 (in) cell surface membrane ;\n\n 4 protons / H+, pumped into cell wall ;\n\n 5 using energy / by active transport ;\n\n 6 pH of cell wall decreases / cell wall becomes (more) acidic ;\n\n 7 pH-dependent enzymes activated ;\n\n 8 ref. to expansins ;\n\n 9 bonds between cellulose microfibrils broken ;\n\n 10 idea that cell wall, ‘loosens’ / becomes more elastic / able to stretch ;\n\n 11 (more) water enters cell / turgor pressure increases ;\n\n 12 (so) cell (wall) expands ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_41.pdf",
+    "sourceMs": "9700_s20_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_41.pdf"
+  },
+  {
+    "id": "9700_s20_42_q9",
+    "paperCode": "9700/42/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "42",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how gel electrophoresis is used to distinguish between two alleles of a gene. [9] (b) Outline the advantages of screening for the presence of mutations of the genes for breast cancer, BRCA1 and BRCA2. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how gel electrophoresis is used to distinguish between two alleles of a gene.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Outline the advantages of screening for the presence of mutations of the genes for breast cancer, BRCA1 and BRCA2.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any nine from: 9\n\n 1 DNA cut with restriction enzymes ;\n\n 2 (DNA) fragments placed in wells in gel ;\n\n 3 at cathode ;\n\n 4 current / electric field, applied ;\n\n 5 fragments negatively charged ;\n\n 6 move towards anode ;\n\n 7 gel acts as a molecular sieve ;\n\n 8 smaller fragments move, faster / further, than larger ones ;\n\n 9 current switched off ;\n\n 10 ref. to Southern blotting / AW ;\n\n 11 ref. to staining / (gene / DNA) probes, for visualisation ;\n\n 12 alleles have different positions on gel ;\n\n 13 AVP ; e.g. desired, DNA / allele, selected / increased, by PCR\n\n(b)\n9(b) any six from: 6\n\n if present\n 1 enables early treatment ;\n\n 2 lifestyle changes ;\n\n 3 elective / preventative, mastectomy ;\n\n 4 regular check ups ;\n\n 5 prevents unnecessary prolonged suffering if discovered and treated early ;\n\n 6 prevents early death ;\n\n 7 AVP ; e.g. social or family advantage of preventing parent’s early death\n\n if not present\n 8 removes worry ;\n\n 9 ref. to planning a family ;\n\n 10 AVP ; e.g. prevention / early diagnosis, cheaper than later treatment",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any nine from: 9\n\n 1 DNA cut with restriction enzymes ;\n\n 2 (DNA) fragments placed in wells in gel ;\n\n 3 at cathode ;\n\n 4 current / electric field, applied ;\n\n 5 fragments negatively charged ;\n\n 6 move towards anode ;\n\n 7 gel acts as a molecular sieve ;\n\n 8 smaller fragments move, faster / further, than larger ones ;\n\n 9 current switched off ;\n\n 10 ref. to Southern blotting / AW ;\n\n 11 ref. to staining / (gene / DNA) probes, for visualisation ;\n\n 12 alleles have different positions on gel ;\n\n 13 AVP ; e.g. desired, DNA / allele, selected / increased, by PCR",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any six from: 6\n\n if present\n 1 enables early treatment ;\n\n 2 lifestyle changes ;\n\n 3 elective / preventative, mastectomy ;\n\n 4 regular check ups ;\n\n 5 prevents unnecessary prolonged suffering if discovered and treated early ;\n\n 6 prevents early death ;\n\n 7 AVP ; e.g. social or family advantage of preventing parent’s early death\n\n if not present\n 8 removes worry ;\n\n 9 ref. to planning a family ;\n\n 10 AVP ; e.g. prevention / early diagnosis, cheaper than later treatment",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_42.pdf",
+    "sourceMs": "9700_s20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_42.pdf"
+  },
+  {
+    "id": "9700_s20_42_q10",
+    "paperCode": "9700/42/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "42",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Describe the role of chloroplast pigments in light absorption. [7] (b) Outline how the Calvin cycle produces triose phosphate and outline the conversion of triose phosphate into amino acids. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the role of chloroplast pigments in light absorption.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Outline how the Calvin cycle produces triose phosphate and outline the conversion of triose phosphate into amino acids.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any seven from: 7\n\n 1 pigments arranged in light-harvesting clusters ;\n\n 2 photosystems ;\n\n 3 accessory pigments surround primary pigment ;\n\n 4 accessory pigment example ; e.g. chlorophyll b / carotene\n\n 5 primary pigment is chlorophyll a ;\n\n 6 reaction centre ;\n\n 7 accessory pigments absorb light energy ;\n\n 8 ref. to different wavelengths to chlorophyll a ;\n\n 9 pass energy on to, chlorophyll a / primary pigment / reaction centre ;\n\n 10 pigments absorb light at different wavelengths / maximising light absorbed for photosynthesis ;\n\n(b)\n10(b) any eight from: 8\n\n 1 carbon dioxide fixation / carbon dioxide combines with RuBP ;\n\n 2 using rubisco ;\n\n 3 6C unstable compound formed ;\n\n 4 2 x GP formed ;\n\n 5 GP reduced to TP ;\n\n 6 using ATP ;\n\n 7 and reduced NADP ;\n\n 8 from light-dependent stage ;\n\n 9 TP / GP, combines with, nitrate ions / ions containing nitrogen ;\n\n 10 ions enter via roots ;\n\n 11 ATP required ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any seven from: 7\n\n 1 pigments arranged in light-harvesting clusters ;\n\n 2 photosystems ;\n\n 3 accessory pigments surround primary pigment ;\n\n 4 accessory pigment example ; e.g. chlorophyll b / carotene\n\n 5 primary pigment is chlorophyll a ;\n\n 6 reaction centre ;\n\n 7 accessory pigments absorb light energy ;\n\n 8 ref. to different wavelengths to chlorophyll a ;\n\n 9 pass energy on to, chlorophyll a / primary pigment / reaction centre ;\n\n 10 pigments absorb light at different wavelengths / maximising light absorbed for photosynthesis ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n\n 1 carbon dioxide fixation / carbon dioxide combines with RuBP ;\n\n 2 using rubisco ;\n\n 3 6C unstable compound formed ;\n\n 4 2 x GP formed ;\n\n 5 GP reduced to TP ;\n\n 6 using ATP ;\n\n 7 and reduced NADP ;\n\n 8 from light-dependent stage ;\n\n 9 TP / GP, combines with, nitrate ions / ions containing nitrogen ;\n\n 10 ions enter via roots ;\n\n 11 ATP required ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_42.pdf",
+    "sourceMs": "9700_s20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_42.pdf"
+  },
+  {
+    "id": "9700_s20_43_q9",
+    "paperCode": "9700/43/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "43",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 43",
+    "questionNumber": 9,
+    "questionText": "(a) Using named examples, describe and explain the differences between continuous variation and discontinuous variation. [8] (b) Outline how selective breeding (artificial selection) has improved the yield of crops, such as wheat and maize. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Using named examples, describe and explain the differences between continuous variation and discontinuous variation.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Outline how selective breeding (artificial selection) has improved the yield of crops, such as wheat and maize.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n discontinuous\n 1 one / few, genes control a phenotype ;\n\n 2 qualitative ;\n\n 3 discrete categories / no intermediates ;\n\n 4 different alleles at single gene locus have large effect on phenotype ;\n\n 5 different genes have different effects ;\n\n 6 little / no, contribution by environment to phenotype\n\n 7 example ; e.g. albinism / sickle cell anaemia / haemophilia / Huntington’s disease\n\n continuous\n 8 several genes control a phenotype ;\n\n 9 quantitative ;\n\n 10 range of categories / many intermediates ;\n\n 11 different alleles at single gene locus have small effects ;\n\n 12 environment has considerable influence on phenotype ;\n\n 13 example ; e.g. height / mass\n\n(b)\n9(b) any seven from: 7\n\n 1. choose parents with good features ;\n\n 2. breed these ;\n\n 3. repeat for many generations ;\n\n 4. introduction of disease resistance ;\n\n 5 named crop disease ;\n\n 6 dwarf varieties ;\n\n 7 (dwarf varieties) mutant alleles for gibberellin synthesis ;\n\n 8 (dwarf varieties) more energy put into grain than into height (of plant) ;\n\n 9 (dwarf varieties) less susceptible to being knocked over by weather ;\n\n 10 inbreeding leads to uniformity ;\n\n 11 named example ; e.g. standard height / cobs ready to harvest at same time\n\n 12 hybridisation leads to hybrid vigour ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n discontinuous\n 1 one / few, genes control a phenotype ;\n\n 2 qualitative ;\n\n 3 discrete categories / no intermediates ;\n\n 4 different alleles at single gene locus have large effect on phenotype ;\n\n 5 different genes have different effects ;\n\n 6 little / no, contribution by environment to phenotype\n\n 7 example ; e.g. albinism / sickle cell anaemia / haemophilia / Huntington’s disease\n\n continuous\n 8 several genes control a phenotype ;\n\n 9 quantitative ;\n\n 10 range of categories / many intermediates ;\n\n 11 different alleles at single gene locus have small effects ;\n\n 12 environment has considerable influence on phenotype ;\n\n 13 example ; e.g. height / mass",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n 1. choose parents with good features ;\n\n 2. breed these ;\n\n 3. repeat for many generations ;\n\n 4. introduction of disease resistance ;\n\n 5 named crop disease ;\n\n 6 dwarf varieties ;\n\n 7 (dwarf varieties) mutant alleles for gibberellin synthesis ;\n\n 8 (dwarf varieties) more energy put into grain than into height (of plant) ;\n\n 9 (dwarf varieties) less susceptible to being knocked over by weather ;\n\n 10 inbreeding leads to uniformity ;\n\n 11 named example ; e.g. standard height / cobs ready to harvest at same time\n\n 12 hybridisation leads to hybrid vigour ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_43.pdf",
+    "sourceMs": "9700_s20_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_43.pdf"
+  },
+  {
+    "id": "9700_s20_43_q10",
+    "paperCode": "9700/43/M/J/20",
+    "year": 2020,
+    "session": "s20",
+    "variant": "43",
+    "sessionLabel": "May/June 2020",
+    "variantLabel": "Paper 43",
+    "questionNumber": 10,
+    "questionText": "(a) Describe and explain how the stimulation of sensory hair cells of a Venus fly trap plant leads to an insect being trapped. [8] (b) Explain what is meant by the term homeostasis and describe the principles of homeostasis in mammals. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe and explain how the stimulation of sensory hair cells of a Venus fly trap plant leads to an insect being trapped.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Explain what is meant by the term homeostasis and describe the principles of homeostasis in mammals.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any eight from: 8\n\n 1 mechanical energy converted to electrical ;\n\n 2 cell membrane depolarises ;\n\n 3 (if at least) two hairs touched (within 35 seconds);\n\n 4 action potential occurs ;\n\n 5 action potential / depolarisation, spreads over, leaf / lobe ;\n\n 6 ref. to hinge / midrib, cells ;\n\n 7 H+/ protons, pumped out of cells / pumped into cell walls ;\n\n 8 cell wall, loosens / cross-links broken ;\n\n 9 calcium pectate dissolves (in middle lamella) ;\n\n 10 Ca2+ (ions) enter cells ;\n\n 11 water enters by osmosis ;\n\n 12 cells, expand / become turgid ;\n\n 13 change from convex to concave ;\n\n 14 trap shuts, quickly / in <1s / in 0.3s ;\n\n(b)\n10(b) any seven from: 7\n\n 1 maintain constant internal environment ;\n\n 2 despite changes in the, internal / external, environment ;\n\n 3 changes in, factor / stimulus, detected by receptor ;\n\n 4 named factor ; e.g. temperature / water potential / blood glucose concentration\n\n 5 impulses to CNS / input ;\n\n 6 ref. to central control / CNS, decision ;\n\n 7 impulses to effector / output ;\n\n 8 hormones to target cells\n\n 9 named effector ; e.g. muscle / gland\n\n 10 corrective action ;\n\n 11 factor returns to set point ;\n\n 12 negative feedback ;\n\n 13 AVP ; e.g. fluctuations around set point",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any eight from: 8\n\n 1 mechanical energy converted to electrical ;\n\n 2 cell membrane depolarises ;\n\n 3 (if at least) two hairs touched (within 35 seconds);\n\n 4 action potential occurs ;\n\n 5 action potential / depolarisation, spreads over, leaf / lobe ;\n\n 6 ref. to hinge / midrib, cells ;\n\n 7 H+/ protons, pumped out of cells / pumped into cell walls ;\n\n 8 cell wall, loosens / cross-links broken ;\n\n 9 calcium pectate dissolves (in middle lamella) ;\n\n 10 Ca2+ (ions) enter cells ;\n\n 11 water enters by osmosis ;\n\n 12 cells, expand / become turgid ;\n\n 13 change from convex to concave ;\n\n 14 trap shuts, quickly / in <1s / in 0.3s ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any seven from: 7\n\n 1 maintain constant internal environment ;\n\n 2 despite changes in the, internal / external, environment ;\n\n 3 changes in, factor / stimulus, detected by receptor ;\n\n 4 named factor ; e.g. temperature / water potential / blood glucose concentration\n\n 5 impulses to CNS / input ;\n\n 6 ref. to central control / CNS, decision ;\n\n 7 impulses to effector / output ;\n\n 8 hormones to target cells\n\n 9 named effector ; e.g. muscle / gland\n\n 10 corrective action ;\n\n 11 factor returns to set point ;\n\n 12 negative feedback ;\n\n 13 AVP ; e.g. fluctuations around set point",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s20_qp_43.pdf",
+    "sourceMs": "9700_s20_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s20_ms_43.pdf"
+  },
+  {
+    "id": "9700_w20_41_q9",
+    "paperCode": "9700/41/O/N/20",
+    "year": 2020,
+    "session": "w20",
+    "variant": "41",
+    "sessionLabel": "October/November 2020",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Describe and explain the properties of plasmids that allow them to be used in gene cloning. [7] (b) Explain the roles of restriction endonucleases, ligases and reverse transcriptase in genetic engineering. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe and explain the properties of plasmids that allow them to be used in gene cloning.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Explain the roles of restriction endonucleases, ligases and reverse transcriptase in genetic engineering.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from: 7\n 1 double stranded DNA ;\n 2 have, restriction site / target sequence for restriction enzyme ;\n 3 allows gene (for cloning) to be inserted ;\n\n 4 small ;\n 5 plasmid can, enter / transform, (host) cell / bacterium ;\n\n 6 circular ;\n 7 stable ;\n\n 8 contain, (named) marker genes / (named) genes for antibiotic resistance ;\n 9 used to identify, GM / transformed / recombinant, (bacterial) cells ;\n\n 10 replicate, fast / independently (of host cell replication) ;\n 11 get many copies of cloned gene ;\n 12 AVP ;\n\n(b)\n9(b) any eight from: 8\n restriction endonucleases\n 1 cut DNA ;\n 2 at, restriction site / specific (base) sequence / target sequence ;\n 3 ref. to palindrome ;\n 4 give, sticky / blunt, ends ;\n\n ligases\n 5 join gene to, plasmid / (named) vector ;\n 6 seal (sugar-phosphate) backbone ;\n 7 make, phospho(di)ester / covalent, bonds ;\n 8 make recombinant, DNA / plasmid / vector ;\n\n reverse transcriptase\n 9 makes cDNA ;\n 10 from mRNA ;\n 11 ref. to DNA single-stranded initially ;\n 12 AVP ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from: 7\n 1 double stranded DNA ;\n 2 have, restriction site / target sequence for restriction enzyme ;\n 3 allows gene (for cloning) to be inserted ;\n\n 4 small ;\n 5 plasmid can, enter / transform, (host) cell / bacterium ;\n\n 6 circular ;\n 7 stable ;\n\n 8 contain, (named) marker genes / (named) genes for antibiotic resistance ;\n 9 used to identify, GM / transformed / recombinant, (bacterial) cells ;\n\n 10 replicate, fast / independently (of host cell replication) ;\n 11 get many copies of cloned gene ;\n 12 AVP ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n restriction endonucleases\n 1 cut DNA ;\n 2 at, restriction site / specific (base) sequence / target sequence ;\n 3 ref. to palindrome ;\n 4 give, sticky / blunt, ends ;\n\n ligases\n 5 join gene to, plasmid / (named) vector ;\n 6 seal (sugar-phosphate) backbone ;\n 7 make, phospho(di)ester / covalent, bonds ;\n 8 make recombinant, DNA / plasmid / vector ;\n\n reverse transcriptase\n 9 makes cDNA ;\n 10 from mRNA ;\n 11 ref. to DNA single-stranded initially ;\n 12 AVP ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w20_qp_41.pdf",
+    "sourceMs": "9700_w20_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_ms_41.pdf"
+  },
+  {
+    "id": "9700_w20_41_q10",
+    "paperCode": "9700/41/O/N/20",
+    "year": 2020,
+    "session": "w20",
+    "variant": "41",
+    "sessionLabel": "October/November 2020",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Describe how adrenaline can stimulate liver cells to convert glycogen to glucose. [7] (b) Describe the role of abscisic acid (ABA) in the closure of stomata during times of drought. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how adrenaline can stimulate liver cells to convert glycogen to glucose.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Describe the role of abscisic acid (ABA) in the closure of stomata during times of drought.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any seven from: 7\n 1 adrenaline, binds / joins, to receptor ;\n 2 on (cell surface) membrane of liver cells ;\n 3 activates / stimulates, G protein ;\n 4 activates / stimulates, adenyl(yl) cyclase ;\n 5 cyclic AMP made from ATP ;\n 6 (cAMP is) second(ary) messenger ;\n 7 (cAMP) activates / stimulates / binds to, kinase ;\n 8 enzyme cascade ;\n 9 amplifies signal ;\n 10 (activates) glycogen phosphorylase ;\n\n(b)\n10(b) any eight from: 8\n 1 ABA is a stress hormone ;\n 2 ABA, released / produced / increases, during drought ;\n\n in context of guard cell\n 3 ABA binds to its receptor on (cell surface) membrane ;\n 4 stops, H+ / H ions / protons, leaving (guard cell cytoplasm) ;\n 5 Ca2+ enters ;\n 6 Ca2+ is a second(ary) messenger ;\n 7 (Ca2+ / Cl– / K+) channel (proteins) open ;\n 8 Cl– / anions, leave ;\n 9 K+ leave ;\n 10 water potential (in cell) increases ;\n 11 water leaves by osmosis ;\n 12 volume of, cell / vacuole, decreases ;\n 13 cell becomes flaccid closing, stoma / pore ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any seven from: 7\n 1 adrenaline, binds / joins, to receptor ;\n 2 on (cell surface) membrane of liver cells ;\n 3 activates / stimulates, G protein ;\n 4 activates / stimulates, adenyl(yl) cyclase ;\n 5 cyclic AMP made from ATP ;\n 6 (cAMP is) second(ary) messenger ;\n 7 (cAMP) activates / stimulates / binds to, kinase ;\n 8 enzyme cascade ;\n 9 amplifies signal ;\n 10 (activates) glycogen phosphorylase ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n 1 ABA is a stress hormone ;\n 2 ABA, released / produced / increases, during drought ;\n\n in context of guard cell\n 3 ABA binds to its receptor on (cell surface) membrane ;\n 4 stops, H+ / H ions / protons, leaving (guard cell cytoplasm) ;\n 5 Ca2+ enters ;\n 6 Ca2+ is a second(ary) messenger ;\n 7 (Ca2+ / Cl– / K+) channel (proteins) open ;\n 8 Cl– / anions, leave ;\n 9 K+ leave ;\n 10 water potential (in cell) increases ;\n 11 water leaves by osmosis ;\n 12 volume of, cell / vacuole, decreases ;\n 13 cell becomes flaccid closing, stoma / pore ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w20_qp_41.pdf",
+    "sourceMs": "9700_w20_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_ms_41.pdf"
+  },
+  {
+    "id": "9700_w20_42_q9",
+    "paperCode": "9700/42/O/N/20",
+    "year": 2020,
+    "session": "w20",
+    "variant": "42",
+    "sessionLabel": "October/November 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Using named examples, describe the differences between structural and regulatory genes and the differences between repressible and inducible enzymes. [9] (b) Explain the function of transcription factors in gene expression in eukaryotes. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Using named examples, describe the differences between structural and regulatory genes and the differences between repressible and inducible enzymes.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Explain the function of transcription factors in gene expression in eukaryotes.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any nine from: 9\n\n structural genes\n 1 code for, non-regulatory / structural, proteins / polypeptides ;\n\n 2 named example of structural gene ; e.g. lac Z / lac Y / lac A\n\n 3 (proteins associated with) rRNA / tRNA ;\n\n 4 (proteins such as) enzyme / named (structural) protein ;\n\n regulatory genes\n 5 code for, regulatory / non-structural, proteins / polypeptides ;\n\n 6 named example ; e.g. gene coding for repressor protein / lac I / PIF / correct ref. DELLA protein / gene for\n transcription factors\n\n 7 detail ; e.g. switches genes on or off / ref. gene expression / ref. transcription ;\n\n repressible enzymes\n 8 (generally) produced continuously ;\n\n 9 synthesis can be prevented by binding of repressor protein to, specific site / promoter / operator ;\n\n 10 named example ; e.g. enzyme involved in tryptophan synthesis\n\n inducible enzymes\n 11 synthesis only occurs when, substrate / inducer, is present ;\n\n 12 idea that transcription of the gene only occurs when, substrate / inducer, binds to, transcription factor / repressor\n protein;\n\n 13 named example ; e.g. β galactosidase / lactose permease / transacetylase\n\n(b)\n9(b) any six from: 6\n\n 1 (TF) can form part of protein complex ;\n\n 2 (TF) bind to, DNA / promoter / enhancer ;\n\n 3 (so) RNA polymerase binds to promoter ;\n\n 4 (so) transcription begins / mRNA synthesised / gene expressed / gene switched on ;\n\n 5 (or TF binds to DNA) no transcription / no mRNA synthesised / gene not expressed / gene switched off ;\n\n 6 can activate genes in correct, order / time / cells / amount ;\n\n 7 ref. to correct (pattern of) development ;\n\n 8 described example ; e.g. homeobox genes / hox genes / determine sex\n\n 9 allow responses to environmental stimuli ;\n\n 10 described example ; e.g. correct genes expressed in response to, very high temperatures / light exposure\n\n 11 ref. to regulate cell cycle ; e.g. role in cell cycle checkpoints / apoptosis\n\n 12 ref. to cell signalling ; e.g. response to hormones",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any nine from: 9\n\n structural genes\n 1 code for, non-regulatory / structural, proteins / polypeptides ;\n\n 2 named example of structural gene ; e.g. lac Z / lac Y / lac A\n\n 3 (proteins associated with) rRNA / tRNA ;\n\n 4 (proteins such as) enzyme / named (structural) protein ;\n\n regulatory genes\n 5 code for, regulatory / non-structural, proteins / polypeptides ;\n\n 6 named example ; e.g. gene coding for repressor protein / lac I / PIF / correct ref. DELLA protein / gene for\n transcription factors\n\n 7 detail ; e.g. switches genes on or off / ref. gene expression / ref. transcription ;\n\n repressible enzymes\n 8 (generally) produced continuously ;\n\n 9 synthesis can be prevented by binding of repressor protein to, specific site / promoter / operator ;\n\n 10 named example ; e.g. enzyme involved in tryptophan synthesis\n\n inducible enzymes\n 11 synthesis only occurs when, substrate / inducer, is present ;\n\n 12 idea that transcription of the gene only occurs when, substrate / inducer, binds to, transcription factor / repressor\n protein;\n\n 13 named example ; e.g. β galactosidase / lactose permease / transacetylase",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any six from: 6\n\n 1 (TF) can form part of protein complex ;\n\n 2 (TF) bind to, DNA / promoter / enhancer ;\n\n 3 (so) RNA polymerase binds to promoter ;\n\n 4 (so) transcription begins / mRNA synthesised / gene expressed / gene switched on ;\n\n 5 (or TF binds to DNA) no transcription / no mRNA synthesised / gene not expressed / gene switched off ;\n\n 6 can activate genes in correct, order / time / cells / amount ;\n\n 7 ref. to correct (pattern of) development ;\n\n 8 described example ; e.g. homeobox genes / hox genes / determine sex\n\n 9 allow responses to environmental stimuli ;\n\n 10 described example ; e.g. correct genes expressed in response to, very high temperatures / light exposure\n\n 11 ref. to regulate cell cycle ; e.g. role in cell cycle checkpoints / apoptosis\n\n 12 ref. to cell signalling ; e.g. response to hormones",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w20_qp_42.pdf",
+    "sourceMs": "9700_w20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_ms_42.pdf"
+  },
+  {
+    "id": "9700_w20_42_q10",
+    "paperCode": "9700/42/O/N/20",
+    "year": 2020,
+    "session": "w20",
+    "variant": "42",
+    "sessionLabel": "October/November 2020",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Describe how a molecule of glucose is converted to pyruvate and then to acetyl CoA. [9] (b) Explain how ATP is formed during oxidative phosphorylation. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how a molecule of glucose is converted to pyruvate and then to acetyl CoA.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how ATP is formed during oxidative phosphorylation.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any nine from: 9\n\n 1 glycolysis ;\n\n 2 glucose phosphorylated by ATP ;\n\n 3 to fructose (1,6-)bisphosphate ;\n\n 4 lysis / splits, to form 2 × triose phosphate ;\n\n 5 (triose phosphate) has hydrogen removed / is dehydrogenated / is oxidised ;\n\n 6 reduced NAD formed ;\n\n 7 4 × ATP / net 2ATP, produced ;\n\n 8 ref. to substrate-linked phosphorylation ;\n\n pyruvate produced\n\n 9 enters mitochondrial matrix ;\n\n 10 link reaction ;\n\n 11 decarboxylated / carbon dioxide removed ;\n\n 12 (pyruvate) has hydrogen removed / is dehydrogenated / is oxidised ;\n\n combines with coenzyme A\n\n(b)\n10(b) any six from: 6\n\n 1 reduced NAD / reduced FAD, releases hydrogen ;\n\n 2 ref. to inner membrane / cristae ;\n\n 3 hydrogen splits into H+ and e– ;\n\n 4 e– passes along, chain of carriers / ETC ;\n\n 5 energy released used to pump H+ into intermembrane space ;\n\n 6 high concentration of H+ in intermembrane space / ref. proton gradient ;\n\n 7 H+ diffuse back into matrix ;\n\n 8 ref. to ATP synthase / stalked particle ;\n\n 9 ref. to chemiosmosis ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any nine from: 9\n\n 1 glycolysis ;\n\n 2 glucose phosphorylated by ATP ;\n\n 3 to fructose (1,6-)bisphosphate ;\n\n 4 lysis / splits, to form 2 × triose phosphate ;\n\n 5 (triose phosphate) has hydrogen removed / is dehydrogenated / is oxidised ;\n\n 6 reduced NAD formed ;\n\n 7 4 × ATP / net 2ATP, produced ;\n\n 8 ref. to substrate-linked phosphorylation ;\n\n pyruvate produced\n\n 9 enters mitochondrial matrix ;\n\n 10 link reaction ;\n\n 11 decarboxylated / carbon dioxide removed ;\n\n 12 (pyruvate) has hydrogen removed / is dehydrogenated / is oxidised ;\n\n combines with coenzyme A",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any six from: 6\n\n 1 reduced NAD / reduced FAD, releases hydrogen ;\n\n 2 ref. to inner membrane / cristae ;\n\n 3 hydrogen splits into H+ and e– ;\n\n 4 e– passes along, chain of carriers / ETC ;\n\n 5 energy released used to pump H+ into intermembrane space ;\n\n 6 high concentration of H+ in intermembrane space / ref. proton gradient ;\n\n 7 H+ diffuse back into matrix ;\n\n 8 ref. to ATP synthase / stalked particle ;\n\n 9 ref. to chemiosmosis ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w20_qp_42.pdf",
+    "sourceMs": "9700_w20_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w20_ms_42.pdf"
+  },
+  {
+    "id": "9700_m21_42_q9",
+    "paperCode": "9700/42/F/M/21",
+    "year": 2021,
+    "session": "m21",
+    "variant": "42",
+    "sessionLabel": "February/March 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Compare the characteristic features of the domains Eukarya and Bacteria. [8] (b) Describe the methods used to conserve endangered plant species. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Compare the characteristic features of the domains Eukarya and Bacteria.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Describe the methods used to conserve endangered plant species.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n\n Eukarya v Bacteria\n 1 nucleus v no, nucleus / nuclear envelope ;\n\n 2 linear DNA v circular DNA / plasmid ;\n\n 3 histone proteins associated with DNA v no histone proteins ;\n\n 4 (double) membrane-bound organelles v no membrane-bound organelles ;\n ignore named organelles\n\n 5 80S ribosomes v 70S ribosomes ;\n\n 6 cell wall sometimes present v cell wall always present ;\n\n 7 cell wall (if present) made of cellulose / chitin v cell wall made of peptidoglycans ;\n\n 8 cells divide by mitosis v cells divide by binary fission ;\n I ref. to meiosis\n\n 9 (can be) multicellular v unicellular ;\n\n 10 AVP ;\n e.g. differences in flagellum structure\n\n(b)\n9(b) any seven from: 7\n\n 1 botanic gardens ;\n\n 2 research ;\n\n 3 controlled named growing conditions ;\n e.g. light / water / nutrients / temperature\n\n 4 propagation / named method ;\n e.g. cuttings / tissue culture / controlled pollination\n\n 5 plant back to natural environment ;\n\n 6 seed banks / collect seeds ;\n\n 7 detail of seed storage ;\n e.g. low oxygen / low moisture / low temperature\n\n 8 seeds regularly, tested for viability / re-stocked ;\n A description\n\n 9 maintain genetic diversity / genetic material preserved / acts as a gene bank ;\n\n 10 can be germinated prior to introduction back into natural habitat ;\n\n 11 ref. to CITES ;\n\n 12 ref. to (conservation) projects in situ / named example ;\n e.g. remove alien species / forestry project",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n\n Eukarya v Bacteria\n 1 nucleus v no, nucleus / nuclear envelope ;\n\n 2 linear DNA v circular DNA / plasmid ;\n\n 3 histone proteins associated with DNA v no histone proteins ;\n\n 4 (double) membrane-bound organelles v no membrane-bound organelles ;\n ignore named organelles\n\n 5 80S ribosomes v 70S ribosomes ;\n\n 6 cell wall sometimes present v cell wall always present ;\n\n 7 cell wall (if present) made of cellulose / chitin v cell wall made of peptidoglycans ;\n\n 8 cells divide by mitosis v cells divide by binary fission ;\n I ref. to meiosis\n\n 9 (can be) multicellular v unicellular ;\n\n 10 AVP ;\n e.g. differences in flagellum structure",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n 1 botanic gardens ;\n\n 2 research ;\n\n 3 controlled named growing conditions ;\n e.g. light / water / nutrients / temperature\n\n 4 propagation / named method ;\n e.g. cuttings / tissue culture / controlled pollination\n\n 5 plant back to natural environment ;\n\n 6 seed banks / collect seeds ;\n\n 7 detail of seed storage ;\n e.g. low oxygen / low moisture / low temperature\n\n 8 seeds regularly, tested for viability / re-stocked ;\n A description\n\n 9 maintain genetic diversity / genetic material preserved / acts as a gene bank ;\n\n 10 can be germinated prior to introduction back into natural habitat ;\n\n 11 ref. to CITES ;\n\n 12 ref. to (conservation) projects in situ / named example ;\n e.g. remove alien species / forestry project",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m21_qp_42.pdf",
+    "sourceMs": "9700_m21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m21_ms_42.pdf"
+  },
+  {
+    "id": "9700_m21_42_q10",
+    "paperCode": "9700/42/F/M/21",
+    "year": 2021,
+    "session": "m21",
+    "variant": "42",
+    "sessionLabel": "February/March 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Explain what is meant by bioinformatics and outline the role of bioinformatics following the sequencing of genomes of humans and parasites. [6] (b) Explain how a microarray can be used to analyse gene expression in a tissue sample. [9]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain what is meant by bioinformatics and outline the role of bioinformatics following the sequencing of genomes of humans and parasites.",
+        "marks": 6
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how a microarray can be used to analyse gene expression in a tissue sample.",
+        "marks": 9
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any six from: 6\n\n 1 analysis of biological data using computer software / AW ;\n\n 2 databases of, gene / DNA / protein / amino acid, sequences ;\n\n 3 ref. to large databases ;\n\n 4 fast / accurate / efficient ;\n\n 5 ref. to allows data to be, shared / pooled ;\n\n 6 can predict, amino acid sequences / protein structure (from DNA sequence data) ;\n\n 7 ref. to analytical tool ;\n e.g. BLAST\n\n 8 ref. to comparisons ;\n\n 9 used to find methods to control parasites ;\n\n 10 named example of control ;\n e.g. vaccine\n\n 11 AVP ;\n e.g. personalised medicine\n identify new diseases\n ref. common ancestor\n phylogenetic analysis\n biodiversity / new species\n\n(b)\n10(b) any nine from: 9\n\n 1 probes are, single-stranded DNA / ssDNA ;\n\n 2 each probe is unique to a particular gene ;\n\n 3 probes correspond to thousands of different genes ;\n\n 4 extract mRNA ;\n\n 5 mRNA used (as a template) to make cDNA ;\n R mRNA converted to cDNA\n\n 6 by reverse transcription / using reverse transcriptase ;\n\n 7 (c)DNA linked to fluorescent dye ;\n\n 8 (c)DNA added to microarray ;\n\n 9 (c)DNA, binds to / hybridises, to probes ;\n\n 10 by complementary base pairing ;\n\n 11 excess (c)DNA washed off ;\n\n 12 exposed to, UV light / laser ;\n\n 13 fluorescence shows the expressed genes / AW ;\n\n 14 intensity of fluorescence shows level of gene expression ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any six from: 6\n\n 1 analysis of biological data using computer software / AW ;\n\n 2 databases of, gene / DNA / protein / amino acid, sequences ;\n\n 3 ref. to large databases ;\n\n 4 fast / accurate / efficient ;\n\n 5 ref. to allows data to be, shared / pooled ;\n\n 6 can predict, amino acid sequences / protein structure (from DNA sequence data) ;\n\n 7 ref. to analytical tool ;\n e.g. BLAST\n\n 8 ref. to comparisons ;\n\n 9 used to find methods to control parasites ;\n\n 10 named example of control ;\n e.g. vaccine\n\n 11 AVP ;\n e.g. personalised medicine\n identify new diseases\n ref. common ancestor\n phylogenetic analysis\n biodiversity / new species",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any nine from: 9\n\n 1 probes are, single-stranded DNA / ssDNA ;\n\n 2 each probe is unique to a particular gene ;\n\n 3 probes correspond to thousands of different genes ;\n\n 4 extract mRNA ;\n\n 5 mRNA used (as a template) to make cDNA ;\n R mRNA converted to cDNA\n\n 6 by reverse transcription / using reverse transcriptase ;\n\n 7 (c)DNA linked to fluorescent dye ;\n\n 8 (c)DNA added to microarray ;\n\n 9 (c)DNA, binds to / hybridises, to probes ;\n\n 10 by complementary base pairing ;\n\n 11 excess (c)DNA washed off ;\n\n 12 exposed to, UV light / laser ;\n\n 13 fluorescence shows the expressed genes / AW ;\n\n 14 intensity of fluorescence shows level of gene expression ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_m21_qp_42.pdf",
+    "sourceMs": "9700_m21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_m21_ms_42.pdf"
+  },
+  {
+    "id": "9700_s21_41_q9",
+    "paperCode": "9700/41/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "41",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how you would carry out an investigation to calculate the effect of substrate concentration on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as DCPIP or methylene blue. [8] (b) Compare respiration in anaerobic conditions in mammalian tissue and in yeast cells. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how you would carry out an investigation to calculate the effect of substrate concentration on the rate of respiration of yeast in anaerobic conditions using a redox indicator, such as DCPIP or methylene blue.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Compare respiration in anaerobic conditions in mammalian tissue and in yeast cells.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any eight from: 8\n 1 vary / different / range of, glucose / fructose, concentrations ;\n 2 control / same, volume of yeast (suspension) ;\n 3 control / same, volume of glucose (solution) ;\n 4 control / same, volume / concentration, of indicator (solution) ;\n 5 control temperature (between 20–45oC) ;\n 6 oil layer to exclude, air / oxygen ;\n 7 indicator turns from blue (start / oxidised) to colourless (end / reduced) ;\n 8 due to, hydrogen atoms / H+ / electrons, from, glycolysis / dehydrogenation / respiration ;\n 9 time how long it takes for colour change OR fix time interval and measure with colorimeter ;\n 10 repeat experiment ;\n 11 calculate mean(s) ;\n 12 graph with glucose concentration (on x axis) and, time taken / % absorbance / % transmission / rate (on y) ;\n 13 rate is 1/t ;\n 14 AVP ;\n\n(b)\n9(b) any seven from: 7\n\n both\n 1 occur in cytoplasm ;\n 2 (only) involve glycolysis ;\n 3 make, 2 (net) / small amount of, ATP ;\n 4 regenerate NAD (from NADH) ;\n\n comparison\n mammalian tissue yeast cells\n\n 5 H acceptor / reduction of pyruvate / pyruvic acid ethanal\n\n 6 (end) product lactate / lactic acid ethanol\n\n 7 no, CO2 / decarboxylation CO2\n\n 8 (enzyme) lactate dehydrogenase ethanol dehydrogenase\n\n 9 steps / stages one / 1 two / 2\n\n 10 (process) reversible irreversible",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any eight from: 8\n 1 vary / different / range of, glucose / fructose, concentrations ;\n 2 control / same, volume of yeast (suspension) ;\n 3 control / same, volume of glucose (solution) ;\n 4 control / same, volume / concentration, of indicator (solution) ;\n 5 control temperature (between 20–45oC) ;\n 6 oil layer to exclude, air / oxygen ;\n 7 indicator turns from blue (start / oxidised) to colourless (end / reduced) ;\n 8 due to, hydrogen atoms / H+ / electrons, from, glycolysis / dehydrogenation / respiration ;\n 9 time how long it takes for colour change OR fix time interval and measure with colorimeter ;\n 10 repeat experiment ;\n 11 calculate mean(s) ;\n 12 graph with glucose concentration (on x axis) and, time taken / % absorbance / % transmission / rate (on y) ;\n 13 rate is 1/t ;\n 14 AVP ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any seven from: 7\n\n both\n 1 occur in cytoplasm ;\n 2 (only) involve glycolysis ;\n 3 make, 2 (net) / small amount of, ATP ;\n 4 regenerate NAD (from NADH) ;\n\n comparison\n mammalian tissue yeast cells\n\n 5 H acceptor / reduction of pyruvate / pyruvic acid ethanal\n\n 6 (end) product lactate / lactic acid ethanol\n\n 7 no, CO2 / decarboxylation CO2\n\n 8 (enzyme) lactate dehydrogenase ethanol dehydrogenase\n\n 9 steps / stages one / 1 two / 2\n\n 10 (process) reversible irreversible",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_41.pdf",
+    "sourceMs": "9700_s21_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_41.pdf"
+  },
+  {
+    "id": "9700_s21_41_q10",
+    "paperCode": "9700/41/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "41",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Explain how speciation can occur due to geographical separation. [8] (b) Using examples, explain why species may become extinct. [7]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain how speciation can occur due to geographical separation.",
+        "marks": 8
+      },
+      {
+        "label": "(b)",
+        "text": "Using examples, explain why species may become extinct.",
+        "marks": 7
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any eight from: 8\n 1 named geographical barrier ; e.g. river / mountain / sea / lake\n 2 population, separated / divided (into two) ;\n 3 no, mating / breeding / gene flow, between, populations / groups ;\n 4 different (named), selection pressures / environments / conditions ;\n 5 different mutations ;\n 6 individuals with beneficial alleles, are selected for / survive / reproduce / have a selective advantage ;\n 7 genetic drift / founder effect ;\n 8 change in, allele frequency / gene pool ;\n 9 over a long time / many generations ;\n 10 can no longer (successfully), interbreed / reproduce / produce fertile offspring, with, old / original / other, population /\n species ;\n 11 allopatric (speciation) ;\n\n(b)\n10(b) any seven from: 7\n 1 environment changes ;\n 2 species cannot adapt (fast enough) ;\n 3 climate / temperature / sea level, change ;\n 4 extinct species / species at risk ;\n 5 competition / predation / disease, from, new / introduced / alien / invasive, species ;\n 6 extinct species / species at risk ;\n 7 (named) habitat, degradation / loss ;\n 8 extinct species / species at risk ;\n 9 hunting by humans / poaching / (over)fishing ;\n 10 extinct species / species at risk ;\n 11 AVP ;\n 12 extinct species / species at risk ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any eight from: 8\n 1 named geographical barrier ; e.g. river / mountain / sea / lake\n 2 population, separated / divided (into two) ;\n 3 no, mating / breeding / gene flow, between, populations / groups ;\n 4 different (named), selection pressures / environments / conditions ;\n 5 different mutations ;\n 6 individuals with beneficial alleles, are selected for / survive / reproduce / have a selective advantage ;\n 7 genetic drift / founder effect ;\n 8 change in, allele frequency / gene pool ;\n 9 over a long time / many generations ;\n 10 can no longer (successfully), interbreed / reproduce / produce fertile offspring, with, old / original / other, population /\n species ;\n 11 allopatric (speciation) ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any seven from: 7\n 1 environment changes ;\n 2 species cannot adapt (fast enough) ;\n 3 climate / temperature / sea level, change ;\n 4 extinct species / species at risk ;\n 5 competition / predation / disease, from, new / introduced / alien / invasive, species ;\n 6 extinct species / species at risk ;\n 7 (named) habitat, degradation / loss ;\n 8 extinct species / species at risk ;\n 9 hunting by humans / poaching / (over)fishing ;\n 10 extinct species / species at risk ;\n 11 AVP ;\n 12 extinct species / species at risk ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_41.pdf",
+    "sourceMs": "9700_s21_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_41.pdf"
+  },
+  {
+    "id": "9700_s21_42_q9",
+    "paperCode": "9700/42/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "42",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Describe how the structure of a mitochondrion is related to its function. [9] (b) Explain how rice is adapted to grow with its roots submerged in water. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe how the structure of a mitochondrion is related to its function.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how rice is adapted to grow with its roots submerged in water.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any nine from: 9\n\n 1 (function is) to make ATP ;\n\n 2 ref. to double membrane / outer and inner membrane / envelope ;\n\n inner membrane\n 3 folded / cristae, to increase / for large, surface area ;\n\n 4 has, ATP synthase / stalked particles ;\n\n 5 has, ETC / carrier (proteins) / cytochromes ;\n\n 6 (site of) oxidative phosphorylation / chemiosmosis ;\n\n 7 impermeable to protons ;\n\n intermembrane space\n 8 has low pH / high concentration of protons ;\n\n 9 protons pumped into intermembrane space ;\n\n 10 proton gradient between intermembrane space and matrix\n or\n protons diffuse from intermembrane space to matrix ;\n\n matrix\n 11 contains (co)enzymes for, link reaction / the Krebs cycle ;\n\n outer membrane\n 12 permeable to, pyruvate / reduced NAD / oxygen ;\n\n 13 AVP ; e.g. ribosomes / DNA, involved in protein synthesis\n\n(b)\n9(b) any six from: 6\n\n 1 aerenchyma ;\n\n 2 in stem and roots ;\n\n 3 help oxygen to, move / diffuse, to, roots / submerged parts ;\n\n 4 shallow roots ;\n\n 5 air (film) trapped on underwater leaves / described ;\n\n 6 greater internode growth\n or\n leaves or flowers grow above water level ;\n\n 7 (growth regulated by) gibberellin / ethene ;\n\n 8 anaerobic respiration, in roots / underwater / when submerged ; A alcoholic fermentation\n\n 9 tolerant to high ethanol (concentration) ;\n\n 10 ref. to ethanol / alcohol, dehydrogenase ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any nine from: 9\n\n 1 (function is) to make ATP ;\n\n 2 ref. to double membrane / outer and inner membrane / envelope ;\n\n inner membrane\n 3 folded / cristae, to increase / for large, surface area ;\n\n 4 has, ATP synthase / stalked particles ;\n\n 5 has, ETC / carrier (proteins) / cytochromes ;\n\n 6 (site of) oxidative phosphorylation / chemiosmosis ;\n\n 7 impermeable to protons ;\n\n intermembrane space\n 8 has low pH / high concentration of protons ;\n\n 9 protons pumped into intermembrane space ;\n\n 10 proton gradient between intermembrane space and matrix\n or\n protons diffuse from intermembrane space to matrix ;\n\n matrix\n 11 contains (co)enzymes for, link reaction / the Krebs cycle ;\n\n outer membrane\n 12 permeable to, pyruvate / reduced NAD / oxygen ;\n\n 13 AVP ; e.g. ribosomes / DNA, involved in protein synthesis",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any six from: 6\n\n 1 aerenchyma ;\n\n 2 in stem and roots ;\n\n 3 help oxygen to, move / diffuse, to, roots / submerged parts ;\n\n 4 shallow roots ;\n\n 5 air (film) trapped on underwater leaves / described ;\n\n 6 greater internode growth\n or\n leaves or flowers grow above water level ;\n\n 7 (growth regulated by) gibberellin / ethene ;\n\n 8 anaerobic respiration, in roots / underwater / when submerged ; A alcoholic fermentation\n\n 9 tolerant to high ethanol (concentration) ;\n\n 10 ref. to ethanol / alcohol, dehydrogenase ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_42.pdf",
+    "sourceMs": "9700_s21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_42.pdf"
+  },
+  {
+    "id": "9700_s21_42_q10",
+    "paperCode": "9700/42/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "42",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Explain how different types of gene mutation can affect the phenotype and outline the effects of the mutant alleles that cause Huntington’s disease on the phenotype of a person. [9] (b) Explain how gibberellin acts on DELLA proteins to stimulate the production of amylase in a germinating seed. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain how different types of gene mutation can affect the phenotype and outline the effects of the mutant alleles that cause Huntington’s disease on the phenotype of a person.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how gibberellin acts on DELLA proteins to stimulate the production of amylase in a germinating seed.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any nine from: 9\n\n gene mutation\n 1 base substitution ;\n\n 2 (often) does not have a significant effect on phenotype / silent mutation ;\n\n 3 base, insertion / deletion leads to, frame shift / described ;\n\n 4 (so) has significant effect on phenotype ;\n\n 5 change in, primary structure / amino acid sequence / polypeptide made ;\n\n 6 change in, tertiary structure / 3D shape / folding ;\n\n 7 loss of function in protein or enzyme / example described ;\n\n 8 (premature) stop codon ;\n\n Huntinton’s disease\n 9 (mutant allele) is dominant ;\n\n 10 HD / dominant, allele has more repeats of base triplet CAG (than normal) ;\n\n 11 heterozygote will have disease ;\n\n 12 brain cells die more rapidly (than normal) / brain degeneration ;\n\n 13 involuntary movements / mental deterioration or described / mood changes ;\n\n 14 onset in middle age / idea that no change in phenotype in earlier life ;\n\n 15 AVP ; e.g. greater number of CAG repeats affects, earlier onset / severity of disease\n\n(b)\n10(b) any six from: 6\n\n 1 DELLA proteins inhibit, transcription factor / PIF;\n\n 2 gibberellin binds to receptor ;\n\n 3 in aleurone layer ;\n\n 4 ref. to enzyme involved ;\n\n 5 DELLA proteins broken down ;\n\n 6 TF / PIF, binds to promoter region (of DNA) ;\n\n 7 transcription of gene coding for amylase / AW ;\n\n 8 ref. to translation (leading to amylase production) ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any nine from: 9\n\n gene mutation\n 1 base substitution ;\n\n 2 (often) does not have a significant effect on phenotype / silent mutation ;\n\n 3 base, insertion / deletion leads to, frame shift / described ;\n\n 4 (so) has significant effect on phenotype ;\n\n 5 change in, primary structure / amino acid sequence / polypeptide made ;\n\n 6 change in, tertiary structure / 3D shape / folding ;\n\n 7 loss of function in protein or enzyme / example described ;\n\n 8 (premature) stop codon ;\n\n Huntinton’s disease\n 9 (mutant allele) is dominant ;\n\n 10 HD / dominant, allele has more repeats of base triplet CAG (than normal) ;\n\n 11 heterozygote will have disease ;\n\n 12 brain cells die more rapidly (than normal) / brain degeneration ;\n\n 13 involuntary movements / mental deterioration or described / mood changes ;\n\n 14 onset in middle age / idea that no change in phenotype in earlier life ;\n\n 15 AVP ; e.g. greater number of CAG repeats affects, earlier onset / severity of disease",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any six from: 6\n\n 1 DELLA proteins inhibit, transcription factor / PIF;\n\n 2 gibberellin binds to receptor ;\n\n 3 in aleurone layer ;\n\n 4 ref. to enzyme involved ;\n\n 5 DELLA proteins broken down ;\n\n 6 TF / PIF, binds to promoter region (of DNA) ;\n\n 7 transcription of gene coding for amylase / AW ;\n\n 8 ref. to translation (leading to amylase production) ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_42.pdf",
+    "sourceMs": "9700_s21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_42.pdf"
+  },
+  {
+    "id": "9700_s21_43_q9",
+    "paperCode": "9700/43/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "43",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 43",
+    "questionNumber": 9,
+    "questionText": "(a) Explain the use of genes for fluorescence as markers in gene technology. [6] (b) Discuss the social implications of using genetically modified organisms in food production. [9]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain the use of genes for fluorescence as markers in gene technology.",
+        "marks": 6
+      },
+      {
+        "label": "(b)",
+        "text": "Discuss the social implications of using genetically modified organisms in food production.",
+        "marks": 9
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any six from: 6\n\n 1 add marker gene to the, vector / plasmid ;\n\n 2 gene of interest inserted close to marker gene ;\n\n 3 (marker) gene product / protein, emits light ;\n\n 4 visible colour change ;\n\n 5 ref. to exposing to UV light / laser scanner ;\n\n 6 easy to identify transformed, bacteria / organisms ;\n\n 7 examples ; e.g. GFP\n\n 8 idea of no known risk ;\n\n 9 AVP ; e.g. ref. to gene of interest inserted into marker gene / insertional inactivation\n\n(b)\n9(b) any five from: 9\n\n advantages\n 1 increase in yield ;\n\n 2 improved quality / AW ;\n\n 3 improvement to health / Golden riceTM and vitamin A deficiency ;\n\n 4 longer shelf-life ;\n\n 5 some GM crops are adapted to unfavourable conditions ; A e.g. drought tolerance / nitrogen fixing / salt tolerance\n\n 6 (insect / herbicide, resistant crops) so less money spent on, pesticide / herbicide ;\n\n any five from:\n\n disadvantages\n 7 consumer resistance to GM crops ;\n\n 8 may be unsafe for humans / allergies / side effects / harm other animals ;\n\n 9 expensive ;\n\n 10 may have to buy seeds every season ;\n\n 11 seed and related herbicides sales monopolised by big companies ;\n\n 12 ref. to affects organic food ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any six from: 6\n\n 1 add marker gene to the, vector / plasmid ;\n\n 2 gene of interest inserted close to marker gene ;\n\n 3 (marker) gene product / protein, emits light ;\n\n 4 visible colour change ;\n\n 5 ref. to exposing to UV light / laser scanner ;\n\n 6 easy to identify transformed, bacteria / organisms ;\n\n 7 examples ; e.g. GFP\n\n 8 idea of no known risk ;\n\n 9 AVP ; e.g. ref. to gene of interest inserted into marker gene / insertional inactivation",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any five from: 9\n\n advantages\n 1 increase in yield ;\n\n 2 improved quality / AW ;\n\n 3 improvement to health / Golden riceTM and vitamin A deficiency ;\n\n 4 longer shelf-life ;\n\n 5 some GM crops are adapted to unfavourable conditions ; A e.g. drought tolerance / nitrogen fixing / salt tolerance\n\n 6 (insect / herbicide, resistant crops) so less money spent on, pesticide / herbicide ;\n\n any five from:\n\n disadvantages\n 7 consumer resistance to GM crops ;\n\n 8 may be unsafe for humans / allergies / side effects / harm other animals ;\n\n 9 expensive ;\n\n 10 may have to buy seeds every season ;\n\n 11 seed and related herbicides sales monopolised by big companies ;\n\n 12 ref. to affects organic food ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_43.pdf",
+    "sourceMs": "9700_s21_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_43.pdf"
+  },
+  {
+    "id": "9700_s21_43_q10",
+    "paperCode": "9700/43/M/J/21",
+    "year": 2021,
+    "session": "s21",
+    "variant": "43",
+    "sessionLabel": "May/June 2021",
+    "variantLabel": "Paper 43",
+    "questionNumber": 10,
+    "questionText": "(a) Describe the roles of sodium ions in selective reabsorption in the nephron and calcium ions in the functioning of a cholinergic synapse. [7] (b) Compare the endocrine and nervous systems in control and co‑ordination in mammals. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the roles of sodium ions in selective reabsorption in the nephron and calcium ions in the functioning of a cholinergic synapse.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Compare the endocrine and nervous systems in control and co‑ordination in mammals.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any seven from: 7\n\n selective reabsorption – sodium ions\n 1 active transport of Na+, out of (pct) cells / into blood ;\n\n 2 Na+ ion concentration, gradient (produced) / reduced in cell ;\n\n 3 Na+ enters (pct) cells from, lumen / tubule / filtrate ;\n\n 4 by facilitated diffusion / using carrier protein ;\n\n 5 cotransport of, glucose / amino acids / ions ;\n\n 6 glucose diffuses into blood ;\n\n synapse – calcium ions\n 7 (when) presynaptic membrane depolarised ;\n\n 8 calcium (ion) channels / voltage-gated channels, open ;\n\n 9 calcium ions enter presynaptic neurone ;\n\n 10 stimulate vesicles of ACh to, move towards / fuse with, presynaptic membrane ;\n\n 11 causing exocytosis of ACh ;\n\n(b)\n10(b) any eight from: 8\n\n differences\n nervous endocrine\n\n 1 communication action potential / impulse and hormone ;\n\n 2 nature of communication electrical (and chemical) and chemical ;\n\n 3 mode of transmission neurone / nerve cell and blood ;\n\n 4 response destination muscle / gland and target, organs / tissue / cells ;\n\n 5 transmission speed fast(er) and slow(er) ;\n\n 6 effects specific / localised and (can be) widespread ;\n\n 7 response speed fast(er) and slow(er) ;\n\n 8 duration short-lived / temporary and can be long-lasting / permanent ;\n\n 9 receptor location on cell surface membrane and either on cell surface membrane or within cell ;\n\n similarities\n 10 cell signalling both involve cell signalling ;\n\n 11 detail both involve signal molecule binding to receptor ;\n\n 12 chemicals both involve chemicals ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any seven from: 7\n\n selective reabsorption – sodium ions\n 1 active transport of Na+, out of (pct) cells / into blood ;\n\n 2 Na+ ion concentration, gradient (produced) / reduced in cell ;\n\n 3 Na+ enters (pct) cells from, lumen / tubule / filtrate ;\n\n 4 by facilitated diffusion / using carrier protein ;\n\n 5 cotransport of, glucose / amino acids / ions ;\n\n 6 glucose diffuses into blood ;\n\n synapse – calcium ions\n 7 (when) presynaptic membrane depolarised ;\n\n 8 calcium (ion) channels / voltage-gated channels, open ;\n\n 9 calcium ions enter presynaptic neurone ;\n\n 10 stimulate vesicles of ACh to, move towards / fuse with, presynaptic membrane ;\n\n 11 causing exocytosis of ACh ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n\n differences\n nervous endocrine\n\n 1 communication action potential / impulse and hormone ;\n\n 2 nature of communication electrical (and chemical) and chemical ;\n\n 3 mode of transmission neurone / nerve cell and blood ;\n\n 4 response destination muscle / gland and target, organs / tissue / cells ;\n\n 5 transmission speed fast(er) and slow(er) ;\n\n 6 effects specific / localised and (can be) widespread ;\n\n 7 response speed fast(er) and slow(er) ;\n\n 8 duration short-lived / temporary and can be long-lasting / permanent ;\n\n 9 receptor location on cell surface membrane and either on cell surface membrane or within cell ;\n\n similarities\n 10 cell signalling both involve cell signalling ;\n\n 11 detail both involve signal molecule binding to receptor ;\n\n 12 chemicals both involve chemicals ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_s21_qp_43.pdf",
+    "sourceMs": "9700_s21_ms_43.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_qp_43.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_s21_ms_43.pdf"
+  },
+  {
+    "id": "9700_w21_41_q9",
+    "paperCode": "9700/41/O/N/21",
+    "year": 2021,
+    "session": "w21",
+    "variant": "41",
+    "sessionLabel": "October/November 2021",
+    "variantLabel": "Paper 41",
+    "questionNumber": 9,
+    "questionText": "(a) Describe and explain the mechanism by which guard cells open stomata. [7] (b) Explain how the anatomy and physiology of the leaves of maize or sorghum are able to maximise carbon dioxide fixation at high temperatures. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe and explain the mechanism by which guard cells open stomata.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Explain how the anatomy and physiology of the leaves of maize or sorghum are able to maximise carbon dioxide fixation at high temperatures.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any seven from 7\n\n 1 (H+) carrier / pump (protein), in cell surface membrane (of guard cell) ;\n\n 2 hydrogen ions / protons / H ions / H+, leave / exit (cell) ;\n\n 3 using, energy / ATP ;\n\n 4 low H+ (in cell) / more negative charge (than outside) ;\n\n 5 K+ channel (proteins) open ;\n\n 6 K+, move into / enter, cell (by facilitated diffusion) ;\n\n 7 Cl – ions, move into / enter (cell) ;\n\n 8 water / solute, potential of cell decreases ;\n\n 9 water moves in (to cell) by osmosis ;\n\n 10 cell / vacuole, volume increases ;\n\n 11 (cells) are / become, turgid ;\n\n 12 thick inner cell wall (of guard cell) ;\n\n 13 AVP ;\n\n(b)\n9(b) any eight from: 8\n\n 1 C4, plants / pathway ;\n\n 2 stop / decrease, photorespiration ;\n\n 3 mesophyll cells form (tightly packed) ring ;\n\n 4 around / surrounding, bundle sheath (cells) ;\n\n 5 (initial) CO2 / carbon, fixation in mesophyll and Calvin cycle in bundle sheath ;\n\n 6 RuBP / rubisco, in bundle sheath (cells) ;\n\n 7 oxygen / air, cannot reach, RuBP / rubisco / bundle sheath ;\n\n 8 CO2 combines with, PEP / PEP carboxylase (in mesophyll) ;\n\n 9 to form, oxaloacetate / malate ;\n\n 10 (malate) releases carbon dioxide in bundle sheath (cells) ;\n\n 11 RuBP, carboxylated / reacts with carbon dioxide ;\n\n 12 PEP carboxylase has high optimum temperature / tolerates high temperatures ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any seven from 7\n\n 1 (H+) carrier / pump (protein), in cell surface membrane (of guard cell) ;\n\n 2 hydrogen ions / protons / H ions / H+, leave / exit (cell) ;\n\n 3 using, energy / ATP ;\n\n 4 low H+ (in cell) / more negative charge (than outside) ;\n\n 5 K+ channel (proteins) open ;\n\n 6 K+, move into / enter, cell (by facilitated diffusion) ;\n\n 7 Cl – ions, move into / enter (cell) ;\n\n 8 water / solute, potential of cell decreases ;\n\n 9 water moves in (to cell) by osmosis ;\n\n 10 cell / vacuole, volume increases ;\n\n 11 (cells) are / become, turgid ;\n\n 12 thick inner cell wall (of guard cell) ;\n\n 13 AVP ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any eight from: 8\n\n 1 C4, plants / pathway ;\n\n 2 stop / decrease, photorespiration ;\n\n 3 mesophyll cells form (tightly packed) ring ;\n\n 4 around / surrounding, bundle sheath (cells) ;\n\n 5 (initial) CO2 / carbon, fixation in mesophyll and Calvin cycle in bundle sheath ;\n\n 6 RuBP / rubisco, in bundle sheath (cells) ;\n\n 7 oxygen / air, cannot reach, RuBP / rubisco / bundle sheath ;\n\n 8 CO2 combines with, PEP / PEP carboxylase (in mesophyll) ;\n\n 9 to form, oxaloacetate / malate ;\n\n 10 (malate) releases carbon dioxide in bundle sheath (cells) ;\n\n 11 RuBP, carboxylated / reacts with carbon dioxide ;\n\n 12 PEP carboxylase has high optimum temperature / tolerates high temperatures ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w21_qp_41.pdf",
+    "sourceMs": "9700_w21_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_ms_41.pdf"
+  },
+  {
+    "id": "9700_w21_41_q10",
+    "paperCode": "9700/41/O/N/21",
+    "year": 2021,
+    "session": "w21",
+    "variant": "41",
+    "sessionLabel": "October/November 2021",
+    "variantLabel": "Paper 41",
+    "questionNumber": 10,
+    "questionText": "(a) Describe and explain the transmission of an action potential in a myelinated neurone. [9] (b) Explain what is meant by homeostasis in a mammal and explain why it is important to maintain body temperature, blood glucose concentration and the water potential of blood. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe and explain the transmission of an action potential in a myelinated neurone.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Explain what is meant by homeostasis in a mammal and explain why it is important to maintain body temperature, blood glucose concentration and the water potential of blood.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any nine from: 9\n\n 1 Na+ / sodium ion, channels open ;\n\n 2 Na+ / sodium ions, enter, neurone / axon / (nerve) cell ;\n\n 3 membrane (potential) becomes, positive / +40 mV / depolarised ;\n\n 4 (repolarisation / after peak) Na+ / sodium ion, channels close ;\n\n 5 K+ / potassium ion, channels open ;\n\n 6 K+ / potassium ions, leave / move out (of cell) ;\n\n 7 membrane (potential) becomes, negative / –90 mV / repolarised ;\n\n 8 local circuits ;\n\n 9 myelin sheath / Schwann cells, insulates / stops ion movement ;\n\n 10 action potential / depolarisation, only occurs at nodes of Ranvier ;\n\n 11 saltatory conduction ;\n\n 12 fast transmission (of, action potential / impulse) ;\n\n 13 one-way transmission (of, action potential / impulse) ;\n\n 14 AVP ;\n\n(b)\n10(b) any six from: 6\n\n 1 maintain / keep / regulate, internal, environment / conditions ;\n\n 2 within, narrow / set, limits or around, optimum value / set point / norm ;\n\n 3 low (body) temperature and consequence ;\n\n 4 high (body) temperature and consequence ;\n\n 5 low blood glucose (concentration) and consequence ;\n\n 6 high blood glucose concentration and consequence ;\n\n 7 low, (blood) water potential / ψ, and consequence ;\n\n 8 high, (blood) water potential / ψ, and consequence ;",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any nine from: 9\n\n 1 Na+ / sodium ion, channels open ;\n\n 2 Na+ / sodium ions, enter, neurone / axon / (nerve) cell ;\n\n 3 membrane (potential) becomes, positive / +40 mV / depolarised ;\n\n 4 (repolarisation / after peak) Na+ / sodium ion, channels close ;\n\n 5 K+ / potassium ion, channels open ;\n\n 6 K+ / potassium ions, leave / move out (of cell) ;\n\n 7 membrane (potential) becomes, negative / –90 mV / repolarised ;\n\n 8 local circuits ;\n\n 9 myelin sheath / Schwann cells, insulates / stops ion movement ;\n\n 10 action potential / depolarisation, only occurs at nodes of Ranvier ;\n\n 11 saltatory conduction ;\n\n 12 fast transmission (of, action potential / impulse) ;\n\n 13 one-way transmission (of, action potential / impulse) ;\n\n 14 AVP ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any six from: 6\n\n 1 maintain / keep / regulate, internal, environment / conditions ;\n\n 2 within, narrow / set, limits or around, optimum value / set point / norm ;\n\n 3 low (body) temperature and consequence ;\n\n 4 high (body) temperature and consequence ;\n\n 5 low blood glucose (concentration) and consequence ;\n\n 6 high blood glucose concentration and consequence ;\n\n 7 low, (blood) water potential / ψ, and consequence ;\n\n 8 high, (blood) water potential / ψ, and consequence ;",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w21_qp_41.pdf",
+    "sourceMs": "9700_w21_ms_41.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_qp_41.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_ms_41.pdf"
+  },
+  {
+    "id": "9700_w21_42_q9",
+    "paperCode": "9700/42/O/N/21",
+    "year": 2021,
+    "session": "w21",
+    "variant": "42",
+    "sessionLabel": "October/November 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 9,
+    "questionText": "(a) Describe the roles of ADH and the collecting ducts in osmoregulation. [9] (b) Describe the structure of a motor neurone. [6]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Describe the roles of ADH and the collecting ducts in osmoregulation.",
+        "marks": 9
+      },
+      {
+        "label": "(b)",
+        "text": "Describe the structure of a motor neurone.",
+        "marks": 6
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n9(a) any nine from: 9\n\n 1 hypothalamus / osmoreceptors, detects changes in water potential of blood ;\n\n 2 (causes) posterior pituitary gland ;\n\n 3 (to) release ADH into blood ;\n\n 4 ADH binds to receptors ;\n\n 5 on cell surface membrane of collecting duct (cells) ;\n\n 6 stimulates enzyme cascade / phosphorylase enzyme produced ;\n\n 7 vesicles, move towards / fuse with, cell surface membrane ;\n\n 8 (vesicles have) aquaporins ;\n\n 9 collecting duct, membranes / cells / walls, more permeable to water ;\n\n 10 water moves, down water potential gradient / by osmosis ;\n\n 11 into, (collecting duct) cells / tissue fluid / blood ;\n\n 12 water potential (of blood) returns to set point ;\n\n(b)\n9(b) any six from: 6\n\n 1 dendrites attached to cell body ;\n\n 2 nucleus in, cell body / soma ;\n\n 3 many mitochondria ;\n\n 4 much rough endoplasmic reticulum / Nissl’s granules (in cell body) ;\n\n 5 long axon ;\n\n 6 synaptic knobs / synaptic bulbs / terminal branches / axon terminals ;\n\n 7 Schwann cells / myelin sheath / myelinated ;\n\n 8 nodes of Ranvier ;\n\n 9 cell body in, CNS / brain and spinal cord ;\n\n accept from labelled diagram\n if sensory neurone described – max 5",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "9(a) any nine from: 9\n\n 1 hypothalamus / osmoreceptors, detects changes in water potential of blood ;\n\n 2 (causes) posterior pituitary gland ;\n\n 3 (to) release ADH into blood ;\n\n 4 ADH binds to receptors ;\n\n 5 on cell surface membrane of collecting duct (cells) ;\n\n 6 stimulates enzyme cascade / phosphorylase enzyme produced ;\n\n 7 vesicles, move towards / fuse with, cell surface membrane ;\n\n 8 (vesicles have) aquaporins ;\n\n 9 collecting duct, membranes / cells / walls, more permeable to water ;\n\n 10 water moves, down water potential gradient / by osmosis ;\n\n 11 into, (collecting duct) cells / tissue fluid / blood ;\n\n 12 water potential (of blood) returns to set point ;",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "9(b) any six from: 6\n\n 1 dendrites attached to cell body ;\n\n 2 nucleus in, cell body / soma ;\n\n 3 many mitochondria ;\n\n 4 much rough endoplasmic reticulum / Nissl’s granules (in cell body) ;\n\n 5 long axon ;\n\n 6 synaptic knobs / synaptic bulbs / terminal branches / axon terminals ;\n\n 7 Schwann cells / myelin sheath / myelinated ;\n\n 8 nodes of Ranvier ;\n\n 9 cell body in, CNS / brain and spinal cord ;\n\n accept from labelled diagram\n if sensory neurone described – max 5",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w21_qp_42.pdf",
+    "sourceMs": "9700_w21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_ms_42.pdf"
+  },
+  {
+    "id": "9700_w21_42_q10",
+    "paperCode": "9700/42/O/N/21",
+    "year": 2021,
+    "session": "w21",
+    "variant": "42",
+    "sessionLabel": "October/November 2021",
+    "variantLabel": "Paper 42",
+    "questionNumber": 10,
+    "questionText": "(a) Explain how dip sticks function to test for glucose in a sample of urine. [7] (b) Explain the control of gibberellin synthesis and outline how gibberellin stimulates stem elongation. [8]",
+    "parts": [
+      {
+        "label": "(a)",
+        "text": "Explain how dip sticks function to test for glucose in a sample of urine.",
+        "marks": 7
+      },
+      {
+        "label": "(b)",
+        "text": "Explain the control of gibberellin synthesis and outline how gibberellin stimulates stem elongation.",
+        "marks": 8
+      }
+    ],
+    "totalMarks": 15,
+    "markscheme": "(a)\n10(a) any seven from: 7\n\n 1 (dip stick) has immobilised enzymes ;\n\n 2 (dip stick) dipped in urine ; A person, urinates / AW, on stick\n\n 3 glucose oxidase and peroxidase ;\n\n 4 glucose reacts to give hydrogen peroxide ;\n\n 5 (hydrogen peroxide reacts with) colourless substance / chromogen ;\n\n 6 to give, colour change / coloured substance ;\n\n 7 compare with colour chart ;\n\n 8 more glucose gives darker colour / colour intensity gives glucose quantity ;\n\n 9 AVP ; e.g. doesn’t give current blood glucose concentration / not numerical / semi-quantitative\n\n(b)\n10(b) any eight from: 8\n\n 1 dominant allele / Le, codes for, functional enzyme ; ora\n\n 2 (enzyme) produces active gibberellin (GA) ;\n\n 3 DELLA (protein) inhibits, transcription factor / PIF\n or\n DELLA (protein) prevents transcription ;\n\n 4 gibberellin / GA, binds to receptor (complex) ; ignore cell surface membrane\n\n 5 ref. to enzyme involved ;\n\n 6 causes DELLA (protein) destruction ; R GA breaks DELLA (protein)\n\n 7 transcription factor / PIF / RNA polymerase, binds to, DNA / promoter ;\n\n 8 (growth) genes, switched on / expressed / transcribed\n or\n transcription occurs ;\n\n 9 cell walls loosen / acid growth (described) ;\n\n 10 (so) cells can expand when water enters ;\n\n 11 ref. to cell, elongation / division ;\n\n 12 increases internode length ;\n\n 13 AVP ; e.g. ref. to expansins / interaction with auxin / ref. to XET",
+    "markschemeParts": [
+      {
+        "label": "(a)",
+        "text": "10(a) any seven from: 7\n\n 1 (dip stick) has immobilised enzymes ;\n\n 2 (dip stick) dipped in urine ; A person, urinates / AW, on stick\n\n 3 glucose oxidase and peroxidase ;\n\n 4 glucose reacts to give hydrogen peroxide ;\n\n 5 (hydrogen peroxide reacts with) colourless substance / chromogen ;\n\n 6 to give, colour change / coloured substance ;\n\n 7 compare with colour chart ;\n\n 8 more glucose gives darker colour / colour intensity gives glucose quantity ;\n\n 9 AVP ; e.g. doesn’t give current blood glucose concentration / not numerical / semi-quantitative",
+        "marks": null
+      },
+      {
+        "label": "(b)",
+        "text": "10(b) any eight from: 8\n\n 1 dominant allele / Le, codes for, functional enzyme ; ora\n\n 2 (enzyme) produces active gibberellin (GA) ;\n\n 3 DELLA (protein) inhibits, transcription factor / PIF\n or\n DELLA (protein) prevents transcription ;\n\n 4 gibberellin / GA, binds to receptor (complex) ; ignore cell surface membrane\n\n 5 ref. to enzyme involved ;\n\n 6 causes DELLA (protein) destruction ; R GA breaks DELLA (protein)\n\n 7 transcription factor / PIF / RNA polymerase, binds to, DNA / promoter ;\n\n 8 (growth) genes, switched on / expressed / transcribed\n or\n transcription occurs ;\n\n 9 cell walls loosen / acid growth (described) ;\n\n 10 (so) cells can expand when water enters ;\n\n 11 ref. to cell, elongation / division ;\n\n 12 increases internode length ;\n\n 13 AVP ; e.g. ref. to expansins / interaction with auxin / ref. to XET",
+        "marks": null
+      }
+    ],
+    "sourceQp": "9700_w21_qp_42.pdf",
+    "sourceMs": "9700_w21_ms_42.pdf",
+    "sourceQpUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_qp_42.pdf",
+    "sourceMsUrl": "https://papers.xtremepape.rs/CAIE/AS%20and%20A%20Level/Biology%20(9700)/9700_w21_ms_42.pdf"
+  }
+]
