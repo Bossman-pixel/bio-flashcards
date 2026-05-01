@@ -1,5 +1,6 @@
 "use client";
 import type { Rating, SrState } from "./types";
+import { logEvent } from "./sessions";
 
 const STORAGE_KEY = "bio-flashcards.sr.v1";
 const DAY_MS = 24 * 60 * 60 * 1000;
@@ -34,12 +35,13 @@ export function get(id: string): SrState {
   return all[id] ?? { ...defaultSrState };
 }
 
-export function rate(id: string, rating: Rating): SrState {
+export function rate(id: string, rating: Rating, surface: "study" | "flashcards" | "paper" = "study"): SrState {
   const all = loadAll();
   const cur = all[id] ?? { ...defaultSrState };
   const next = applyRating(cur, rating);
   all[id] = next;
   saveAll(all);
+  logEvent({ cardId: id, rating, surface });
   return next;
 }
 

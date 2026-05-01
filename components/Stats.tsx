@@ -17,32 +17,45 @@ export function Stats({ ids }: { ids: string[] }) {
 
   if (!stats) {
     return (
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {Array.from({ length: 4 }).map((_, i) => (
-          <div key={i} className="h-20 rounded-xl bg-zinc-900/40 border border-zinc-800" />
+          <div key={i} className="h-24 rounded-2xl glass border border-token shimmer" />
         ))}
       </div>
     );
   }
 
   const items = [
-    { label: "Due now", value: stats.due, color: "text-rose-300", border: "border-rose-500/30" },
-    { label: "Learning", value: stats.learning, color: "text-orange-300", border: "border-orange-500/30" },
-    { label: "Learned", value: stats.learned, color: "text-emerald-300", border: "border-emerald-500/30" },
-    { label: "Total", value: stats.total, color: "text-zinc-200", border: "border-zinc-700" },
+    { label: "Due", value: stats.due, color: "rose" },
+    { label: "Learning", value: stats.learning, color: "orange" },
+    { label: "Learned", value: stats.learned, color: "emerald" },
+    { label: "Total", value: stats.total, color: "zinc" },
   ];
 
+  const colorMap: Record<string, { fg: string; ring: string }> = {
+    rose: { fg: "var(--color-danger, #f87171)", ring: "rgba(248, 113, 113, 0.25)" },
+    orange: { fg: "var(--color-warn, #fb923c)", ring: "rgba(251, 146, 60, 0.25)" },
+    emerald: { fg: "var(--color-accent)", ring: "var(--color-accent-dim)" },
+    zinc: { fg: "var(--color-text-primary)", ring: "var(--color-border)" },
+  };
+
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-6">
-      {items.map((it) => (
-        <div
-          key={it.label}
-          className={`rounded-xl p-4 bg-zinc-900/40 border ${it.border}`}
-        >
-          <div className={`text-3xl font-bold font-mono ${it.color}`}>{it.value}</div>
-          <div className="text-xs text-zinc-400 mt-1 uppercase tracking-wider">{it.label}</div>
-        </div>
-      ))}
+    <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      {items.map((it) => {
+        const c = colorMap[it.color];
+        return (
+          <div
+            key={it.label}
+            className="rounded-2xl glass border border-token p-4 shadow-card relative overflow-hidden"
+          >
+            <div className="absolute -top-8 -right-8 w-20 h-20 rounded-full pointer-events-none opacity-50" style={{ background: `radial-gradient(circle, ${c.ring}, transparent 70%)` }} />
+            <div className="text-3xl sm:text-4xl font-bold font-mono" style={{ color: c.fg }}>
+              {it.value}
+            </div>
+            <div className="text-[10px] uppercase tracking-[0.18em] text-muted mt-2">{it.label}</div>
+          </div>
+        );
+      })}
     </div>
   );
 }

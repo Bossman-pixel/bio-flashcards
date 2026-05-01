@@ -28,7 +28,7 @@ export function StudyClient({ cards }: { cards: Card[] }) {
 
   if (!hydrated || !stats) {
     return (
-      <div className="text-center text-zinc-400 py-20">Loading session…</div>
+      <div className="text-center text-muted py-20">Loading session…</div>
     );
   }
 
@@ -37,7 +37,7 @@ export function StudyClient({ cards }: { cards: Card[] }) {
 
   function handleRate(r: Rating) {
     if (!current) return;
-    rate(current.id, r);
+    rate(current.id, r, "study");
     setSessionDone((n) => n + 1);
     setShowAnswer(false);
     setQueue((q) => {
@@ -51,19 +51,25 @@ export function StudyClient({ cards }: { cards: Card[] }) {
   if (!current) {
     return (
       <div className="text-center py-20 space-y-4">
-        <h1 className="text-3xl font-bold">All done for now 🎉</h1>
-        <p className="text-zinc-400">
+        <div className="text-6xl">🎉</div>
+        <h1 className="text-3xl font-bold text-primary">All done for now</h1>
+        <p className="text-muted">
           You finished {sessionDone} card{sessionDone === 1 ? "" : "s"} this session.
         </p>
-        <p className="text-zinc-500 text-sm">
-          Come back later — cards will reappear when due.
-        </p>
+        <p className="text-dim text-sm">Come back later — cards reappear when due.</p>
         <div className="flex flex-wrap gap-3 justify-center pt-4">
           <Link
             href="/"
-            className="px-5 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-zinc-900 font-semibold"
+            className="px-5 py-2.5 rounded-xl font-semibold"
+            style={{ backgroundColor: "var(--color-accent)", color: "var(--color-accent-fg)" }}
           >
             Home
+          </Link>
+          <Link
+            href="/dashboard"
+            className="px-5 py-2.5 rounded-xl border border-token hover:border-accent text-primary"
+          >
+            See dashboard
           </Link>
           <button
             onClick={() => {
@@ -72,7 +78,7 @@ export function StudyClient({ cards }: { cards: Card[] }) {
                 window.location.reload();
               }
             }}
-            className="px-5 py-2.5 rounded-xl border border-rose-500/50 text-rose-300 hover:bg-rose-500/10"
+            className="px-5 py-2.5 rounded-xl border border-rose-500/40 text-rose-400 hover:bg-rose-500/10"
           >
             Reset progress
           </button>
@@ -83,14 +89,14 @@ export function StudyClient({ cards }: { cards: Card[] }) {
 
   return (
     <div className="space-y-6">
-      <header className="flex items-center justify-between text-xs sm:text-sm text-zinc-400">
+      <header className="flex items-center justify-between text-xs sm:text-sm text-muted">
         <div>
-          <span className="font-mono">{sessionDone}</span> done ·{" "}
-          <span className="font-mono">{queue.length}</span> in queue
+          <span className="font-mono text-primary">{sessionDone}</span> done ·{" "}
+          <span className="font-mono text-primary">{queue.length}</span> in queue
         </div>
         <div className="flex gap-3">
-          <span>Due: <span className="text-rose-300 font-mono">{stats.due}</span></span>
-          <span>Learned: <span className="text-emerald-300 font-mono">{stats.learned}</span></span>
+          <span>Due: <span className="text-rose-400 font-mono">{stats.due}</span></span>
+          <span>Learned: <span className="text-accent font-mono">{stats.learned}</span></span>
         </div>
       </header>
 
@@ -103,7 +109,7 @@ export function StudyClient({ cards }: { cards: Card[] }) {
       {showAnswer && <RatingButtons onRate={handleRate} />}
 
       {!showAnswer && (
-        <p className="text-center text-xs text-zinc-500">
+        <p className="text-center text-xs text-dim">
           Read the question, plan your essay, then reveal the mark scheme.
         </p>
       )}

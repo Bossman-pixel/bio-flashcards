@@ -32,8 +32,8 @@ export function BrowseClient({
   return (
     <div className="space-y-6">
       <header>
-        <h1 className="text-3xl font-bold tracking-tight">Browse all cards</h1>
-        <p className="text-zinc-400 text-sm mt-1">
+        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-primary">Browse</h1>
+        <p className="text-muted text-sm mt-1">
           Search question + mark scheme text. Filter by year, session, or topic.
         </p>
       </header>
@@ -41,10 +41,10 @@ export function BrowseClient({
       <div className="space-y-3">
         <input
           type="text"
-          placeholder="Search… e.g. meiosis, photosynthesis, kidney"
+          placeholder="Search… meiosis, photosynthesis, bioinformatics…"
           value={q}
           onChange={(e) => setQ(e.target.value)}
-          className="w-full px-4 py-3 rounded-xl bg-zinc-900/60 border border-zinc-800 focus:border-emerald-400 outline-none text-zinc-100 placeholder:text-zinc-500"
+          className="w-full px-4 py-3 rounded-xl glass border border-token focus:border-accent outline-none text-primary placeholder:text-dim transition-colors"
         />
         <div className="flex flex-wrap gap-2">
           <Select
@@ -78,7 +78,7 @@ export function BrowseClient({
         </div>
       </div>
 
-      <div className="text-sm text-zinc-400">
+      <div className="text-sm text-muted">
         {filtered.length} of {cards.length} cards
       </div>
 
@@ -87,41 +87,31 @@ export function BrowseClient({
           <Link
             key={c.id}
             href={`/papers/${c.session}_${c.variant}#${c.id}`}
-            className="block rounded-xl border border-zinc-800 hover:border-emerald-400 hover:bg-zinc-900/40 p-4 transition"
+            className="block rounded-xl glass border border-token hover:border-accent hover:shadow-elev p-4 transition-all"
           >
             <div className="flex flex-wrap items-center gap-2 text-xs">
-              <span className="px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-300 font-mono">
+              <span className="px-2 py-0.5 rounded-full font-mono text-accent" style={{ backgroundColor: "var(--color-accent-dim)" }}>
                 {c.paperCode}
               </span>
-              <span className="text-zinc-400">
-                {c.sessionLabel} · Q{c.questionNumber}
-              </span>
+              <span className="text-muted">{c.sessionLabel} · Q{c.questionNumber}</span>
               {c.topics?.map((t) => (
-                <span
-                  key={t}
-                  className="px-2 py-0.5 rounded-full bg-zinc-800 border border-zinc-700 text-zinc-300"
-                >
+                <span key={t} className="px-2 py-0.5 rounded-full bg-elev border border-subtle text-secondary">
                   {t}
                 </span>
               ))}
             </div>
-            <div className="mt-2 text-sm leading-relaxed text-zinc-100">
+            <div className="mt-2 text-sm leading-relaxed text-primary">
               {c.parts.map((p, i) => (
                 <span key={i}>
-                  <span className="font-mono text-emerald-300">{p.label}</span>{" "}
-                  {p.text}
-                  {p.marks != null && (
-                    <span className="font-mono text-zinc-400"> [{p.marks}]</span>
-                  )}{" "}
+                  <span className="font-mono text-accent">{p.label}</span> {p.text}
+                  {p.marks != null && <span className="font-mono text-muted"> [{p.marks}]</span>}{" "}
                 </span>
               ))}
             </div>
           </Link>
         ))}
         {filtered.length === 0 && (
-          <div className="text-center text-zinc-500 py-12">
-            No cards match those filters.
-          </div>
+          <div className="text-center text-muted py-12">No cards match those filters.</div>
         )}
       </div>
     </div>
@@ -141,7 +131,7 @@ function Select({
     <select
       value={value}
       onChange={(e) => onChange(e.target.value)}
-      className="px-3 py-2 rounded-lg bg-zinc-900/60 border border-zinc-800 hover:border-emerald-400 text-sm text-zinc-100 outline-none"
+      className="px-3 py-2 rounded-lg glass border border-token hover:border-accent text-sm text-primary outline-none cursor-pointer"
     >
       {options.map((o) => (
         <option key={o.value} value={o.value}>

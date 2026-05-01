@@ -21,19 +21,19 @@ export default async function PaperPage({
   return (
     <div className="space-y-8">
       <header className="space-y-2">
-        <Link href="/" className="text-xs text-zinc-400 hover:text-emerald-300">
+        <Link href="/" className="text-xs text-muted hover:text-accent">
           ← All papers
         </Link>
-        <h1 className="text-2xl sm:text-4xl font-bold tracking-tight">
+        <h1 className="text-2xl sm:text-4xl font-bold tracking-tight text-primary">
           {c0.sessionLabel} · {c0.variantLabel}
         </h1>
-        <div className="text-sm text-zinc-400 font-mono">{c0.paperCode}</div>
+        <div className="text-sm text-muted font-mono">{c0.paperCode}</div>
         <div className="flex flex-wrap gap-3 pt-2 text-sm">
           <a
             href={c0.sourceQpUrl}
             target="_blank"
             rel="noreferrer"
-            className="underline text-emerald-300 hover:text-emerald-200"
+            className="underline text-accent hover:opacity-80"
           >
             QP PDF ↗
           </a>
@@ -41,7 +41,7 @@ export default async function PaperPage({
             href={c0.sourceMsUrl}
             target="_blank"
             rel="noreferrer"
-            className="underline text-emerald-300 hover:text-emerald-200"
+            className="underline text-accent hover:opacity-80"
           >
             MS PDF ↗
           </a>
