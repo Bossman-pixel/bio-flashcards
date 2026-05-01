@@ -309,7 +309,7 @@ function CardHeader({ card, side }: { card: Card; side: "question" | "markscheme
         >
           {card.paperCode}
         </span>
-        <span className="text-muted">{card.sessionLabel} · Q{card.questionNumber}</span>
+        <span className="text-muted">{card.sessionLabel} · Q{card.questionNumber}{card.parts?.[0]?.label ?? ""}</span>
       </div>
       <span className="font-mono text-muted">[{card.totalMarks} marks]</span>
       <span className="absolute top-4 right-4 text-[10px] uppercase tracking-[0.18em] text-dim">

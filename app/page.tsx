@@ -37,7 +37,7 @@ export default function HomePage() {
           Flashcards.
         </h1>
         <p className="text-secondary max-w-2xl text-base sm:text-lg leading-relaxed">
-          {allCards.length} essay questions from Paper 4 · 2019–2021 · all sessions ·
+          {allCards.length} sub-questions across {Math.round(allCards.length / 2)} essays · Paper 4 · 2019–2021 · every session ·
           verbatim mark schemes · spaced repetition built in.
         </p>
         <div className="flex flex-wrap gap-3 pt-3">
@@ -92,7 +92,7 @@ export default function HomePage() {
                       {sessionLetter[p.session[0]]} {p.year}
                     </div>
                     <div className="text-[11px] text-muted mt-1">
-                      {p.cards.length} essay{p.cards.length === 1 ? "" : "s"}
+                      {p.cards.length} card{p.cards.length === 1 ? "" : "s"}
                     </div>
                     <div className="mt-2 h-0.5 rounded-full bg-elev overflow-hidden">
                       <div className="h-full w-0 group-hover:w-full transition-all duration-500" style={{ backgroundColor: "var(--color-accent)" }} />

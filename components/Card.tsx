@@ -24,7 +24,7 @@ export function Flashcard({
             </span>
             <span className="text-muted">{card.sessionLabel}</span>
             <span className="text-dim">·</span>
-            <span className="text-muted">Q{card.questionNumber}</span>
+            <span className="text-muted">Q{card.questionNumber}{card.parts?.[0]?.label ?? ""}</span>
           </div>
           <span className="font-mono text-muted">[{card.totalMarks}]</span>
         </div>
